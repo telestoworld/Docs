@@ -13,5 +13,5 @@
   * [Economic Productivity](treasury-of-telesto/economic-productivity.md)
   * [DAO](treasury-of-telesto/dao.md)
 * [Buy $TELO](buy-usdtelo.md)
-* [Digiworlds](digiworlds.md)
+* [🌐 Digiworlds](digiworlds.md)
 * [Contribute](contribute.md)
