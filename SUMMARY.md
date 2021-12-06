@@ -12,5 +12,6 @@
   * [Telesto Game Theory](treasury-of-telesto/telesto-game-theory.md)
   * [Economic Productivity](treasury-of-telesto/economic-productivity.md)
   * [DAO](treasury-of-telesto/dao.md)
+* [Buy $TELO](buy-usdtelo.md)
 * [Digiworlds](digiworlds.md)
 * [Contribute](contribute.md)
