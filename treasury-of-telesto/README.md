@@ -1,2 +1,2 @@
-# TREASURY of TELESTO
+# 🛕 TREASURY of TELESTO
 

@@ -1,4 +1,4 @@
-# Buy $TELO
+# 🪙 Buy $TELO
 
 For now, $TELO can be bought on [UbeSwap](https://app.ubeswap.org/#/swap).
 
