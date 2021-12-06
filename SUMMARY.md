@@ -1,12 +1,11 @@
 # Table of contents
 
-* [🐬 Introduction](README.md)
+* [🔱 Introduction 🔱](README.md)
 * [TREASURY of TELESTO](treasury-of-telesto/README.md)
   * [Stake LP Tokens](treasury-of-telesto/stake-lp-tokens.md)
-  * [Stake Your TELO](treasury-of-telesto/stake-your-telo.md)
+  * [Stake Your TELO (3,3,3)](treasury-of-telesto/stake-your-telo-3-3-3.md)
   * [Purchase A Bond (1, 1)](treasury-of-telesto/purchase-a-bond-1-1.md)
   * [FAQ](treasury-of-telesto/faq.md)
-  * [Stake Your TELO (3, 3)](treasury-of-telesto/stake-your-telo-3-3.md)
   * [Initial Network State](treasury-of-telesto/initial-network-state.md)
   * [Policy](treasury-of-telesto/policy.md)
   * [Market Dynamics](treasury-of-telesto/market-dynamics.md)

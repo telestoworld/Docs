@@ -18,4 +18,4 @@ Profit Allocations are the only treasury variable. This allows us to choose who 
 
 ### &#x20;<a href="#staking" id="staking"></a>
 
-There are no variables in the staking contract. OHM and sOHM are always redeemable 1:1, and profits are always distributed equally through rebase.
+There are no variables in the staking contract. TELO and sTELO are always redeemable 1:1, and profits are always distributed equally through rebase.

@@ -16,9 +16,7 @@ We will begin by outlining the essentials of game theory, and analysing the pris
 
 This is a collaborative piece of work that will be iterated on over time. It is aimed at a broad range of readers and if you would like to offer feedback or contribute to future sections, please join the Telesto DAO discord and reach out to the Community and Content team.
 
-### &#x20;<a href="#game-theory-essentials" id="game-theory-essentials"></a>
 
-### &#x20;<a href="#what-is-game-theory" id="what-is-game-theory"></a>
 
 Game theory is the study of strategic interdependence. There are many situations in life where the best response to a situation depends on what other people in that situation do. Strategic situations are interesting because we can often get multiple outcomes, some of which are remarkably stable and yet sub-optimal for all people involved.
 

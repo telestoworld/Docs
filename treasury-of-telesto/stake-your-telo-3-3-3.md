@@ -1,10 +1,10 @@
-# Stake Your TELO
+# Stake Your TELO (3,3,3)
 
-Staking allows you to earn TELO passively via auto-compounding. By staking your TELO with Telesto DAO, you receive sTELO (staked TELO) in return at a 1:1 ratio. After that, your sTELO balance will increase automatically on every epoch based on the current APY.
+Staking allows you to earn TELO passively via compounding. By staking your TELO with Telesto DAO, you receive sTELO (staked TELO) in return at a 1:1 ratio. After that, your sTELO balance will increase automatically each 3 hours with the rewards.
 
-**Your Balance** tells you how many unstaked OHM are in your wallet. This is the maximum amount that you can stake.
+**Your Balance** tells you how many unstaked TELO are in your wallet. This is the maximum amount that you can stake.
 
-**Your Staked Balance** tells you how many staked OHM are in your wallet. This is the maximum amount that you can unstake.
+**Your Staked Balance** tells you how many staked TELO are in your wallet. This is the maximum amount that you can unstake.
 
 **Next Rebase** tells you the remaining time until the next rebase.
 

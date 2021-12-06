@@ -3,11 +3,11 @@ cover: .gitbook/assets/image0 (3).jpeg
 coverY: -785.2760736196317
 ---
 
-# 🐬 Introduction
+# 🔱 Introduction 🔱
 
 ## What is Telesto?
 
-Telesto is a virtual world and a decentralized reserve currency protocol for the Metaverse based on the TELO token. Each TELO token is backed by a basket of assets (e.g. CELO, McUSD, McEUR) in the Telesto treasury, giving it an intrinsic value that it cannot fall below. Telesto also introduces unique economic and game-theoretic dynamics into the market through staking and bonding.&#x20;
+Telesto is a virtual world and a decentralized reserve currency protocol for the Metaverse based on the TELO token. Each TELO token by several assets (e.g. CELO, McUSD, McEUR) in the Telesto treasury, giving it an inherent value that it cannot fall below. Telesto also features unique economic and game-theoretic dynamics into the market through staking and bonding. Furthermore, Telesto is the first DAO of its type on the CELO network.
 
 ## What is the point of Telesto?
 
