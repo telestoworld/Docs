@@ -1,6 +1,6 @@
 # Policy
 
-Telesto features policy constants that allow us to optimize the system.
+Olympus features policy constants that allow us to optimize the system.
 
 ### &#x20;<a href="#bonds" id="bonds"></a>
 

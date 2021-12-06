@@ -14,11 +14,11 @@ TELO is not a stable coin. Rather, TELO aspires to become an algorithmic reserve
 
 Each TELO is backed by 1 McUSD, not pegged to it. Because the treasury backs every TELO with at least 1 McUSD, the protocol would buy back and burn TELO when it trades below 1 McUSD. This has the effect of pushing TELO price back up to 1 McUSD. TELO could always trade above 1 McUSD because there is no upper limit imposed by the protocol. Think pegged == 1, while backed >= 1.
 
-You might say that the OHM floor price or intrinsic value is 1 McUSD. We believe that the actual price will always be 1 McUSD + premium, but in the end that is up to the market to decide.
+You might say that the TELO floor price or intrinsic value is 1 McUSD. We believe that the actual price will always be 1 McUSD + premium, but in the end that is up to the market to decide.
 
 At a high level, Telesto consists of its protocol managed treasury, protocol owned liquidity ([POL](../.gitbook/assets/glossary)), bond mechanism, and staking rewards that are designed to control supply expansion.
 
-Bond sales generate profit for the protocol, and the treasury uses the profit to mint OHM and distribute them to stakers. With [liquidity bonds](../.gitbook/assets/glossary), the protocol is able to accumulate its own liquidity. Check out the entry below on [the importance of POL](broken-reference).
+Bond sales generate profit for the protocol, and the treasury uses the profit to mint TELO and distribute them to stakers. With [liquidity bonds](../.gitbook/assets/glossary), the protocol is able to accumulate its own liquidity. Check out the entry below on [the importance of POL](broken-reference).
 
 Staking and bonding are considered beneficial to the protocol, while selling is considered detrimental. Staking and selling will also cause a price move, while bonding does not (we consider buying TELO from the market as a prerequisite of staking, thus causing a price move). If both actions are beneficial, the actor who moves price also gets half of the benefit (+1). If both actions are contradictory, the bad actor who moves price gets half of the benefit (+1), while the good actor who moves price gets half of the downside (-1). If both actions are detrimental, which implies both actors are selling, they both get half of the downside (-1).
 
@@ -60,7 +60,7 @@ Next, we assume the Risk-Free Value (RFV) inflows to the treasury completely dry
 
 Finally, we assume that those last standing stakers bought in at a price of $500 per TELO. The initial investment of these stakers would be:
 
-$500/OHM∗55,000 TELO =$27.5 million\\$500/TELO \* 55,000\ TELO = \\$27.5\ million
+$500/TELO∗55,000 TELO =$27.5 million\\$500/TELO \* 55,000\ TELO = \\$27.5\ million
 
 As of September 15 2021, the total TELO supply is 2,082,553 and the RFV is $47,041,833. Remember that 1 TELO is backed by 1 USD (DAI or McUSD). By subtracting these two numbers, we know 44,959,280 TELO will eventually get issued to the remaining stakers. In roughly a year, these stakers who are holding 55,000 TELO will have:
 
@@ -82,7 +82,7 @@ When you buy and stake TELO, you capture a percentage of the supply (market cap)
 
 ### &#x20;<a href="#what-is-a-rebase" id="what-is-a-rebase"></a>
 
-Rebase is a mechanism by which your staked TELO balance increases automatically. When new TELO are minted by the protocol, a large portion of it goes to the stakers. Because stakers only see staked TELO balance instead of TELO, the protocol utilizes the rebase mechanism to increase the staked OHM balance so that 1 staked TELO is always redeemable for 1 TELO.
+Rebase is a mechanism by which your staked TELO balance increases automatically. When new TELO are minted by the protocol, a large portion of it goes to the stakers. Because stakers only see staked TELO balance instead of TELO, the protocol utilizes the rebase mechanism to increase the staked TELO balance so that 1 staked TELO is always redeemable for 1 TELO.
 
 ### &#x20;<a href="#what-is-reward-yield" id="what-is-reward-yield"></a>
 
@@ -92,7 +92,7 @@ Reward yield is the percentage by which your staked TELO balance increases on th
 
 APY stands for annual percentage yield. It measures the real rate of return on your principal by taking into account the effect of compounding interest. In the case of Telesto DAO, your staked TELO represents your principal, and the compound interest is added periodically on every epoch (2200 Ethereum blocks, or around 8 hours) thanks to the rebase mechanism.
 
-One interesting fact about APY is that your balance will grow not linearly but exponentially over time! Assuming a daily compound interest of 2%, if you start with a balance of 1 OHM on day 1, after a year, your balance will grow to about 1377. That is a lot!
+One interesting fact about APY is that your balance will grow not linearly but exponentially over time! Assuming a daily compound interest of 2%, if you start with a balance of 1 TELO on day 1, after a year, your balance will grow to about 1377. That is a lot!
 
 ![](https://docs.olympusdao.finance/\~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-MV4hwONledQK5nEDaUc%2Fsync%2F585854ca21f006875c918ba2aed711730f71284a.png?generation=1622037634126699\&alt=media)
 
@@ -124,33 +124,14 @@ There is no clear answer for this, but the intrinsic value can be determined by 
 
 Let’s say the protocol targets an APY range of 1,000% to 10,000% (see [OIP-18](https://forum.olympusdao.finance/d/77-oip-18-reward-rate-framework-and-reduction) for more details), this would translate to a _minimum_ reward yield of about 0.2105%, or a daily growth of about 0.6328%. Please refer to the equation above to learn [how APY is calculated from the reward yield](broken-reference).
 
+
+
 If there are 100,000 of TELO staked right now, the protocol would need to mint an additional 632.8 TELO to achieve this daily growth. This is achievable if the protocol can bring in at least $632.80 of daily revenue from bond sales. Even if the protocol doesn't bring in that much revenue, it can still sustain 1,000% APY for a considerable amount of time (see the [runway chart](https://dune.xyz/queries/102766/207436) for instance) due to the excess reserve in the treasury.
 
 ### &#x20;<a href="#do-i-have-to-unstake-and-stake-ohm-on-every-epoch-to-get-my-rebase-rewards" id="do-i-have-to-unstake-and-stake-ohm-on-every-epoch-to-get-my-rebase-rewards"></a>
 
-No. Once you have staked OHM with OlympusDAO, your staked OHM balance will auto-compound on every epoch. That increase in balance represents your rebase rewards.
+No. Once you have staked TELO with Telesto DAO, your staked TELO balance will auto-compound on every epoch. That increase in balance represents your rebase rewards.
 
 ### &#x20;<a href="#how-do-i-track-my-rebase-rewards" id="how-do-i-track-my-rebase-rewards"></a>
 
-You can track your rebase rewards by calculating the increase in your staked OHM balance.
-
-1.  1\.
-
-    Record down the Current Index value on the [staking page](https://app.olympusdao.finance/#/) when you first stake your OHM. Let's call this the Start Index.
-
-![](https://docs.olympusdao.finance/\~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-MV4hwONledQK5nEDaUc%2F-Mi6wHAFdphGzOpk0i6e%2F-Mi6x6sOKRCJcnNPxDwF%2Findex\_old.png?alt=media\&token=ab644cc3-ac61-4774-b559-12346619d1c6)
-
-1.  1\.
-
-    After staking for some time, if you want to determine by how much your balance has increased, check the Current Index value again. Let's call this the End Index.
-2.  1\.
-
-    By dividing the End Index by Start Index, you would get the ratio by which your staked OHM balance has increased.
-
-ratio=endIndex/startIndexratio = endIndex / startIndex
-
-1.  1\.
-
-    In this example, the OHM balance has grown by 1.5 times.
-
-ratio=13.2 / 8.8=1.5ratio = 13.2\ /\ 8.8\newline = 1.5
+You can track your rebase rewards by calculating the increase in your staked TELO balance.
