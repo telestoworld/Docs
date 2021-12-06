@@ -10,6 +10,4 @@ TELO will be used as a currency of exchange within the Digiworlds of Telesto, gi
 
 A roadmap for Telesto World will be unveiled separetly from this documentation as it will require its own documentation.
 
-
-
-![](<.gitbook/assets/image0 (3).jpeg>)
+![](.gitbook/assets/depositphotos\_453517326-stock-photo-aesthetic-vaporwave-dolphins-jump-over.jpg)
