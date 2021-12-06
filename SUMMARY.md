@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🔱 Introduction 🔱](README.md)
-* [TREASURY of TELESTO](treasury-of-telesto/README.md)
+* [💱 TREASURY of TELESTO](treasury-of-telesto/README.md)
   * [Stake LP Tokens](treasury-of-telesto/stake-lp-tokens.md)
   * [Stake Your TELO (3,3,3)](treasury-of-telesto/stake-your-telo-3-3-3.md)
   * [Purchase A Bond (1, 1)](treasury-of-telesto/purchase-a-bond-1-1.md)
@@ -12,6 +12,7 @@
   * [Telesto Game Theory](treasury-of-telesto/telesto-game-theory.md)
   * [Economic Productivity](treasury-of-telesto/economic-productivity.md)
   * [DAO](treasury-of-telesto/dao.md)
-* [Buy $TELO](buy-usdtelo.md)
+* [🪙 Buy $TELO](buy-usdtelo.md)
 * [🌐 Digiworlds](digiworlds.md)
-* [Contribute](contribute.md)
+* [🚀 Contribute](contribute.md)
+* [☑ CELO Compatible Wallets](celo-compatible-wallets.md)
