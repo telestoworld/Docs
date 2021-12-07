@@ -1,13 +1,13 @@
 ---
-cover: .gitbook/assets/image0 (3).jpeg
-coverY: -785.2760736196317
+cover: .gitbook/assets/Into the metaverse.jpg
+coverY: 0
 ---
 
 # 🔱 Introduction 🔱
 
 ## What is Telesto?
 
-Telesto is a virtual world and a decentralized reserve currency protocol for the Metaverse based on the TELO token. Each TELO token by several assets (e.g. MC02, wCELO) in the Telesto treasury, giving it an inherent value that it cannot fall below. It is also of note that **1 MCO2 Token = 1 carbon credit** from a VCS certified environmental project (forestry, energy, biomass, etc.) through [Moss Earth](https://mco2token.moss.earth). Because Telesto also runs atop Celo blockchain, which has been carbon negative for 589 days, this makes Telesto a DAO an extremely environmentally friendly and non-inflationary currency (since it is not pegged to any stablecoins).
+Telesto is a virtual world and a decentralized reserve currency protocol for the Metaverse that puts the health of the planet first. Each TELO token by several assets (e.g. MC02, wCELO) in the Telesto treasury, giving it an inherent value that it cannot fall below. It is also of note that **1 MCO2 Token = 1 carbon credit** from a VCS certified environmental project (forestry, energy, biomass, etc.) through [Moss Earth](https://mco2token.moss.earth), making TELO inherently carbon negative. Also, because Telesto runs on top of Celo blockchain, which has been carbon negative for 589 days, this makes Telesto a DAO an extremely environmentally friendly and non-inflationary currency (since it is not pegged to any stablecoins).
 
 ## What is the point of Telesto?
 
@@ -15,7 +15,7 @@ Our goal is to build a policy-controlled currency system for the Metaverse, in w
 
 ### How can I participate?
 
-There are two main strategies for market prticipants:staking and bonding. Stakers stake their TELO tokens in return for more TELO tokens, while bonders provide LP or other tokens in exchange for discounted TELO tokens after a fixed vesting period.
+There are two main strategies for market participants:staking and bonding. Stakers stake their TELO tokens in return for more TELO tokens, while bonders provide LP or other tokens in exchange for discounted TELO tokens after a fixed vesting period.
 
 Governance participants can get involved on our [Discord](https://discord.gg/tcr3H97fnf), we are always looking for new community members to contribute!
 
@@ -27,8 +27,11 @@ The main benefit for bonders comes from price consistency. Bonders commit a capi
 
 ### Who created Telesto <a href="#who-created-olympus" id="who-created-olympus"></a>
 
-Telesto was formed when Jupityr and Satyrn opted to become renegades in the fight against major centralized corporations having a monopoly on the Metaverse. We are working on a Metaverse that is free from corporate control and major decisions are carried out by the DAO and the development team. The development team will be an expanding team from the DAO that posseses the skillsets necessary to contribute to the Metaverse's success.
+Telesto was formed when Jupityr and Satyrn opted to become renegades in the fight against major centralized corporations having a monopoly on the Metaverse. We are working on a Metaverse that is free from corporate control and major decisions are carried out by the DAO and the development team. It was also very important to us that their be a positive environmental impact to match the ethos of Telesto. The development team will be an expanding team from the DAO that posseses the skillsets necessary to contribute to the Metaverse's success.
 
 ### Who runs Telesto? <a href="#who-runs-olympus" id="who-runs-olympus"></a>
 
 No one. Telesto is DAO-governed. All decisions are formed by community members on the forum and made by token holders through snapshot voting.
+
+![](<.gitbook/assets/image0 (3).jpeg>)
+
