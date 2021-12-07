@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/Into the metaverse.jpg
-coverY: 0
+cover: .gitbook/assets/metaverse_illustration-scaled.jpg
+coverY: 167.52556237218815
 ---
 
 # 🔱 Introduction 🔱
