@@ -6,17 +6,17 @@ TELO tokens are vested linearly to the user over the bond period. Liquidity bond
 
 **Bond Price** is the price of TELO you get from bonding. You can calculate the bond price using the following formulae:
 
-* McUSD Bond: (Value of your McUSD token / TELO you'll get from bonding)
-* DAI Bond: (Value of your DAI token / TELO you'll get from bonding)
+* MC02 Bond: (Value of your MC02 token / TELO you'll get from bonding)
+* wCELO Bond: (Value of your wCELO token / TELO you'll get from bonding)
 
 **Market Price** is the market price of TELO
 
 **You Will Get** tells you how many TELO you will get from bonding.
 
-**Debt Ratio** measures the total amount of TELO created from bonds that have yet to be paid out by the protocol. The debt ratio is calculated differently for McUSD and DAI bond:
+**Debt Ratio** measures the total amount of TELO created from bonds that have yet to be paid out by the protocol. The debt ratio is calculated differently for MC02 and wCELO bond:
 
-* McUSD Bond: (TELO created from unredeemed bonds / TELO total supply)
-* DAI Bond: (TELO created from unredeemed bonds / TELO circulating supply)
+* MC02 Bond: (TELO created from unredeemed bonds / TELO total supply)
+* wCELO Bond: (TELO created from unredeemed bonds / TELO circulating supply)
 
 **Vesting Term** measures the period a bond takes to fully redeem. This number is in CELO blocks.&#x20;
 

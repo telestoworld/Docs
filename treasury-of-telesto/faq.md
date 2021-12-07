@@ -12,9 +12,9 @@ TELO is not a stable coin. Rather, TELO aspires to become an algorithmic reserve
 
 ### &#x20;<a href="#ohm-is-backed-not-pegged." id="ohm-is-backed-not-pegged."></a>
 
-Each TELO is backed by 1 McUSD, not pegged to it. Because the treasury backs every TELO with at least 1 McUSD, the protocol would buy back and burn TELO when it trades below 1 McUSD. This has the effect of pushing TELO price back up to 1 McUSD. TELO could always trade above 1 McUSD because there is no upper limit imposed by the protocol. Think pegged == 1, while backed >= 1.
+Each TELO is backed by 1 MC02 but no pegged to it. Because the treasury backs every TELO with at least 1 MC02, the protocol would buy back and burn TELO when it trades below 1 MC02. This has the effect of pushing TELO price back up to 1 MC02. TELO could always trade above 1 MC02 because there is no upper limit imposed by the protocol. Think pegged == 1, while backed >= 1.
 
-You might say that the TELO floor price or intrinsic value is 1 McUSD. We believe that the actual price will always be 1 McUSD + premium, but in the end that is up to the market to decide.
+You might say that the TELO floor price or intrinsic value is 1 MC02. We believe that the actual price will always be 1 MC02 + premium, but in the end that is up to the market to decide.
 
 At a high level, Telesto consists of its protocol managed treasury, protocol owned liquidity ([POL](../.gitbook/assets/glossary)), bond mechanism, and staking rewards that are designed to control supply expansion.
 
@@ -27,13 +27,13 @@ Thus, given two actors, all scenarios of what they could do and the effect on th
 ![](https://docs.olympusdao.finance/\~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-MV4hwONledQK5nEDaUc%2Fsync%2F825671741c4d78f18d0985b8c6f08d3572cfd263.png?generation=1621266139529004\&alt=media)
 
 * If we both stake (3, 3), it is the best thing for both of us and the protocol (3 + 3 = 6).
-* If one of us stakes and the other one bonds, it is also great because staking takes TELO off the market and put it into the protocol, while bonding provides liquidity and McUSD for the treasury (3 + 1 = 4).
+* If one of us stakes and the other one bonds, it is also great because staking takes TELO off the market and put it into the protocol, while bonding provides liquidity and MC02 for the treasury (3 + 1 = 4).
 * When one of us sells, it diminishes effort of the other one who stakes or bonds (1 - 1 = 0).
 * When we both sell, it creates the worst outcome for both of us and the protocol (-3 - 3 = -6).
 
 ### &#x20;<a href="#why-is-pcv-important" id="why-is-pcv-important"></a>
 
-As the protocol controls the funds in its treasury, TELO can only be minted or burned by the protocol. This also guarantees that the protocol can always back 1 TELO with 1 McUSD. You can easily define the risk of your investment because you can be confident that the protocol will indefinitely buy TELO below 1 McUSD with the treasury assets until no one is left to sell. You can't trust the FED but you can trust the code.
+As the protocol controls the funds in its treasury, TELO can only be minted or burned by the protocol. This also guarantees that the protocol can always back 1 TELO with 1 MC02. You can easily define the risk of your investment because you can be confident that the protocol will indefinitely buy TELO below 1 MC02 with the treasury assets until no one is left to sell. You can't trust the FED but you can trust the code.
 
 As the protocol accumulates more PCV, more runway is guaranteed for the stakers. This means the stakers can be confident that the current staking APY can be sustained for a longer term because more funds are available in the treasury.
 
@@ -62,11 +62,11 @@ Finally, we assume that those last standing stakers bought in at a price of $500
 
 $500/TELO∗55,000 TELO =$27.5 million\\$500/TELO \* 55,000\ TELO = \\$27.5\ million
 
-As of September 15 2021, the total TELO supply is 2,082,553 and the RFV is $47,041,833. Remember that 1 TELO is backed by 1 USD (DAI or McUSD). By subtracting these two numbers, we know 44,959,280 TELO will eventually get issued to the remaining stakers. In roughly a year, these stakers who are holding 55,000 TELO will have:
+As of September 15 2021, the total TELO supply is 2,082,553 and the RFV is $47,041,833. Remember that 1 TELO is backed by 1 MC02. By subtracting these two numbers, we know 44,959,280 TELO will eventually get issued to the remaining stakers. In roughly a year, these stakers who are holding 55,000 TELO will have:
 
 55,000+44,959,280=45,014,280 TELO 55,000 + 44,959,280 = 45,014,280\ TELO
 
-$27.5 million investment made by these stakers will turn into about $45 million based on cash flow alone if they stay staked (recall that 1 TELO is backed by 1 USD). In this bank run scenario, the stakers who stay staked not only get their money back, but also make some profit. Therefore, [(3,3)](broken-reference) isn’t just a popular meme, it is actually a dominant strategy.
+$27.5 million investment made by these stakers will turn into about $45 million based on cash flow alone if they stay staked (recall that 1 TELO is backed by MC02). In this bank run scenario, the stakers who stay staked not only get their money back, but also make some profit. Therefore, [(3,3)](broken-reference) isn’t just a popular meme, it is actually a dominant strategy.
 
 The above scenario is unlikely to play out because when other people find out that extremely high rewards are being paid to the stakers, they will copy the strategy by buying and staking TELO. This is also why the percentage of TELO staked in Telesto has consistently remained over 90% since launch.
 
@@ -118,7 +118,7 @@ As illustrated above, your TELO balance will grow exponentially over time thanks
 
 ### &#x20;<a href="#what-will-be-ohms-intrinsic-value-in-the-future" id="what-will-be-ohms-intrinsic-value-in-the-future"></a>
 
-There is no clear answer for this, but the intrinsic value can be determined by the treasury performance. For example, if the treasury could guarantee to back every TELO with 100 McUSD, the intrinsic value will be 100 McUSD. It can also be decided by the DAO. For example, if the DAO decides to [raise the price floor of ](https://forum.olympusdao.finance/d/31-use-price-floor-as-tool-for-monetary-policy)TELO, its intrinsic value will rise accordingly.
+There is no clear answer for this, but the intrinsic value can be determined by the treasury performance. For example, if the treasury could guarantee to back every TELO with 100 MC02, the intrinsic value will be 100 MC02. It can also be decided by the DAO. For example, if the DAO decides to [raise the price floor of ](https://forum.olympusdao.finance/d/31-use-price-floor-as-tool-for-monetary-policy)TELO, its intrinsic value will rise accordingly.
 
 ### &#x20;<a href="#how-does-the-protocol-manage-to-maintain-the-high-staking-apy" id="how-does-the-protocol-manage-to-maintain-the-high-staking-apy"></a>
 

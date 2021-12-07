@@ -11,7 +11,7 @@ The initial network features a one-way treasury (money goes in, none comes out),
 The following are the initial policy states:
 
 * ​[BCV](https://docs.olympusdao.finance/references/glossary#bcv) varies based on bond types. It is tuned regularly by the Policy team to meet the protocol goals. For example, if the protocol wants to accumulate more liquidity into its treasury, it can lower the BCV for [liquidity bonds](https://docs.olympusdao.finance/references/glossary#liquidity-bonds) to increase their bond capacity.&#x20;
-* It is set to 33110 Ethereum blocks or approximately five days for all bond types.
+* It is set to 86400 CELO blocks or approximately five days for all bond types.
 * Every time someone purchases a bond, the proceed will go to the Telesto Treasury. A corresponding amount of TELO will be minted and distributed to three parties:
   * The bond purchaser will receive the quoted amount of TELO linearly over the vesting term.
   * The DAO receives the same amount of TELO as the bonder. This represents the DAO profit.
