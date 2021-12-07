@@ -1,6 +1,6 @@
 ---
 cover: .gitbook/assets/metaverse_illustration-scaled.jpg
-coverY: 167.52556237218815
+coverY: 366.46216768916156
 ---
 
 # 🔱 Introduction 🔱
