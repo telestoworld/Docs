@@ -13,6 +13,7 @@
   * [Telesto Game Theory](treasury-of-telesto/telesto-game-theory.md)
   * [Economic Productivity](treasury-of-telesto/economic-productivity.md)
   * [DAO](treasury-of-telesto/dao.md)
+  * [Glossary](treasury-of-telesto/glossary.md)
 * [🪙 Buy $TELO](buy-usdtelo.md)
 * [☑ CELO Compatible Wallets](celo-compatible-wallets.md)
 * [💱 Bridging Assets to CELO](bridging-assets-to-celo.md)
