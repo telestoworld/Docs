@@ -1,6 +1,6 @@
 # 🌐 Digiworlds
 
-In Telesto World, we call the Metaverse "Digiworlds".. this is to further differentiate ourselves from Zuckerberg's "Meta".&#x20;
+In Telesto World, we call the Metaverse "Digiworlds". This is to further differentiate ourselves from Zuckerberg's "Meta". Key differences include the lack of corporate control and having our digital currency backed by a carbon negative token (MC02).
 
 We believe that the Metaverse should be owned by the DAO, with the major decisions and proposals carried out via governance. For now, proposals and governance will be conducted within Discord until a better voting system is developed.
 
