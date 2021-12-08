@@ -25,7 +25,7 @@ The main benefit for stakers comes from supply growth. The protocol mints new TE
 
 The main benefit for bonders comes from price consistency. Bonders commit a capital upfront and are promised a fixed return at a set point in time; that return is in TELO and thus the bonder's profit would depend on TELO price when the bond matures. Bonders benefit from a rising or static TELO price.
 
-### Who created Telesto <a href="#who-created-olympus" id="who-created-olympus"></a>
+### Who created Telesto? <a href="#who-created-olympus" id="who-created-olympus"></a>
 
 Telesto was formed when Jupityr and Satyrn opted to become renegades in the fight against major centralized corporations having a monopoly on the Metaverse. We are working on a Metaverse that is free from corporate control and where major decisions are carried out by the DAO and the development team. It was also very important to us that their be a positive environmental impact to match the ethos of Telesto. The development team will be an expanding team from the DAO that posseses the skillsets necessary to contribute to the Metaverse's success.
 
