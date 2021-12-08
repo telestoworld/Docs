@@ -7,7 +7,7 @@ coverY: 301.02249488752557
 
 ## What is Telesto?
 
-Telesto is a virtual world and a decentralized reserve currency protocol for the Metaverse that puts the health of the planet first. Each TELO token is backed by several assets (e.g. MC02, wCELO) in the Telesto treasury, giving it inherent value.  It is also of note that **1 MCO2 Token = 1 carbon credit** from a VCS certified environmental project (forestry, energy, biomass, etc.) through [Moss Earth](https://mco2token.moss.earth), making TELO inherently carbon negative. Also, because Telesto runs on top of Celo blockchain, which has been carbon negative for 589 days, this makes Telesto a DAO an extremely environmentally friendly and non-inflationary currency (since it is not pegged to any stablecoins).
+Telesto is a virtual world and a decentralized reserve currency protocol for the Metaverse that puts the health of the planet first. Each TELO token is backed by several assets (e.g. MC02, wCELO) in the Telesto treasury, giving it inherent value.  It is also of note that **1 MCO2 Token = 1 carbon credit** from a VCS certified environmental project (forestry, energy, biomass, etc.) through [Moss Earth](https://mco2token.moss.earth), making TELO inherently carbon negative. Also, because Telesto runs on top of Celo blockchain, which has been carbon negative for over 589 days (at the time of writing), this makes Telesto a DAO an extremely environmentally-friendly organization with a non-inflationary currency (since it is not pegged to any stablecoins).
 
 ## What is the point of Telesto?
 
