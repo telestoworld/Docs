@@ -114,3 +114,5 @@ These assumptions led to a sub-optimal outcome in the game (Confess, Confess). W
 Confess, Confess is therefore the only Nash equilibrium. A Nash equilibrium is a state in a game where no player wishes to deviate from their strategy, given what the other players are doing.
 
 **The only dominant strategy in the prisoner's dilemma is Confess, Confess.** If both players were able to cooperate with each other and stay Quiet however, they would have achieved a better outcome. This is an important conclusion as it shows us that **two individuals may not cooperate, despite it appearing to be the best strategy for both.**
+
+![](../.gitbook/assets/NashEquilibrium\_2880x1620.jpg)
