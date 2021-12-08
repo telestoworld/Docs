@@ -1,16 +1,16 @@
 # Initial Network State
 
-**Our initial goal is not to find a stable price.** This may seem antithetical to our currency aspirations, but we ensure you it is not. Olympus can be tuned to optimize for different things. The main tradeoff is volatility and profitability versus stability and consistency. With volatility and profit comes growth; this is what we want early on.
+**Our initial goal is not to find a stable price.** This may seem antithetical to our currency aspirations, but we ensure you it is not. Telesto can be tuned to optimize for different things. The main tradeoff is volatility and profitability versus stability and consistency. With volatility and profit comes growth; this is what we want early on.
 
-With tight policy and scale, Olympus should function well as a stable asset. Upward and downward pressures should stabilize at some non-intrinsic value. With loose policy, regardless of scale, Olympus has the potential to act as a wealth creation machine. The market premium of the token measures the positive sum of the game; all extrinsic value is new wealth created.
+With tight policy and scale, Telesto should function well as a stable asset. Upward and downward pressures should stabilize at some non-intrinsic value. With loose policy, regardless of scale, Telesto has the potential to act as a wealth creation machine. The market premium of the token measures the positive sum of the game; all extrinsic value is new wealth created.
 
-### &#x20;<a href="#alpha-state" id="alpha-state"></a>
+
 
 The initial network features a one-way treasury (money goes in, none comes out), the bonding contract (through which supply increases and profits are produced), and the staking contract (where profits are distributed).
 
 The following are the initial policy states:
 
-* ​[BCV](https://docs.olympusdao.finance/references/glossary#bcv) varies based on bond types. It is tuned regularly by the Policy team to meet the protocol goals. For example, if the protocol wants to accumulate more liquidity into its treasury, it can lower the BCV for [liquidity bonds](https://docs.olympusdao.finance/references/glossary#liquidity-bonds) to increase their bond capacity.&#x20;
+* ​BCV varies based on bond types. It is tuned regularly by the Policy team to meet the protocol goals. For example, if the protocol wants to accumulate more liquidity into its treasury, it can lower the BCV for liquidity bonds to increase their bond capacity.&#x20;
 * It is set to 86400 CELO blocks or approximately five days for all bond types.
 * Every time someone purchases a bond, the proceed will go to the Telesto Treasury. A corresponding amount of TELO will be minted and distributed to three parties:
   * The bond purchaser will receive the quoted amount of TELO linearly over the vesting term.
