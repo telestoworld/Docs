@@ -14,8 +14,19 @@
   * [Economic Productivity](treasury-of-telesto/economic-productivity.md)
   * [DAO](treasury-of-telesto/dao.md)
   * [Glossary](treasury-of-telesto/glossary.md)
-* [🪙 Buy $TELO](buy-usdtelo.md)
-* [☑ CELO Compatible Wallets](celo-compatible-wallets.md)
-* [💱 Bridging Assets to CELO](bridging-assets-to-celo.md)
-* [🌐 Digiworlds](digiworlds.md)
-* [🚀 Contribute](contribute.md)
+
+## 💰 Buying and Storing TELO
+
+* [🪙 Buy $TELO](buying-and-storing-telo/buy-usdtelo.md)
+* [☑ CELO Compatible Wallets](buying-and-storing-telo/celo-compatible-wallets.md)
+* [💱 Bridging Assets to CELO](buying-and-storing-telo/bridging-assets-to-celo.md)
+
+## 🪐 Metaverse
+
+* [🌐 Digiworlds](metaverse/digiworlds.md)
+
+## 🗣 Get in Touch
+
+* [🚀 Contribute](get-in-touch/contribute.md)
+* [DAO Discord](https://discord.gg/SyN6P8WXwE)
+* [DAO Twitter](https://twitter.com/TelestoDao)

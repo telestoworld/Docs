@@ -2,7 +2,7 @@
 
 ## There are several different options for bridging assets to Celo in Ubeswap under "Bridge"
 
-![Ubeswap Bridge Options](<.gitbook/assets/ubeswap bridges (1).png>)
+![Ubeswap Bridge Options](<../.gitbook/assets/ubeswap bridges (1).png>)
 
 ### [https://allbridge.io/](https://allbridge.io)
 
