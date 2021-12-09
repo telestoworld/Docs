@@ -116,11 +116,11 @@ _The_ number of TELO distributed to the staking contract is calculated from TELO
 
 _TELOdistributed= TELO\_totalSupply×rewardRate_
 
-## Why does the price of _TELO_ become irrelevant in long term?
+## Why does the price of TELO become irrelevant in long term?
 
 As illustrated above, your TELO balance will grow exponentially over time thanks to the power of compounding. Let's say you buy an TELO for $400 now and the market decides that in 1 year time, the intrinsic value of TELO will be $2. Assuming a daily compound interest rate of 2%, your balance would grow to about 1377 TELOs by the end of the year, which is worth around $2754. That is a cool $2354 profit! By now, you should understand that you are paying a premium for TELO now in exchange for a long-term benefit. Thus, you should have a long time horizon to allow your TELO balance to grow exponentially and make this a worthwhile investment.
 
-## What will be OHM's intrinsic value in the future?
+## What will be TELO's intrinsic value in the future?
 
 There is no clear answer for this, but the intrinsic value can be determined by the treasury performance. For example, if the treasury could guarantee to back every TELO with 100 MC02, the intrinsic value will be 100 MC02. It can also be decided by the DAO. For example, if the DAO decides to raise the floor price of TELO, its intrinsic value will rise accordingly.
 
