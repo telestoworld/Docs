@@ -66,7 +66,7 @@ Finally, we assume that those last standing stakers bought in at a price of $500
 
 _$500/TELO∗55,000 TELO =$27.5 million_
 
-As of September 15 2021, the total TELO supply is 2,082,553 and the RFV is $47,041,833. Remember that 1 TELO is backed by 1 MC02. By subtracting these two numbers, we know 44,959,280 TELO will eventually get issued to the remaining stakers. In roughly a year, these stakers who are holding 55,000 TELO will have:
+Let's pretend the total TELO supply is 2,082,553 and the RFV is $47,041,833. Remember that 1 TELO is backed by 1 MC02. By subtracting these two numbers, we know 44,959,280 TELO will eventually get issued to the remaining stakers. In roughly a year, these stakers who are holding 55,000 TELO will have:
 
 _55,000+44,959,280=45,014,280 TELO_
 
