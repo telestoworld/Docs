@@ -13,7 +13,8 @@
   * [Telesto Game Theory](treasury-of-telesto/telesto-game-theory.md)
   * [Economic Productivity](treasury-of-telesto/economic-productivity.md)
   * [DAO](treasury-of-telesto/dao.md)
-  * [Glossary](treasury-of-telesto/glossary.md)
+  * [📊 How It Works (Diagram)](treasury-of-telesto/how-it-works-diagram.md)
+  * [📑 Glossary](treasury-of-telesto/glossary.md)
 
 ## 💰 Buying and Storing TELO
 
