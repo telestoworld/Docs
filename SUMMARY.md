@@ -2,6 +2,7 @@
 
 * [🔱 Introduction 🔱](README.md)
 * [🛕 TREASURY of TELESTO](treasury-of-telesto/README.md)
+  * [📊 How It Works (Diagram)](treasury-of-telesto/how-it-works-diagram.md)
   * [Stake LP Tokens](treasury-of-telesto/stake-lp-tokens.md)
   * [Stake Your TELO (3,3,3)](treasury-of-telesto/stake-your-telo-3-3-3.md)
   * [Purchase A Bond (1, 1)](treasury-of-telesto/purchase-a-bond-1-1.md)
@@ -13,7 +14,6 @@
   * [Telesto Game Theory](treasury-of-telesto/telesto-game-theory.md)
   * [Economic Productivity](treasury-of-telesto/economic-productivity.md)
   * [DAO](treasury-of-telesto/dao.md)
-  * [📊 How It Works (Diagram)](treasury-of-telesto/how-it-works-diagram.md)
   * [📑 Glossary](treasury-of-telesto/glossary.md)
 
 ## 💰 Buying and Storing TELO
