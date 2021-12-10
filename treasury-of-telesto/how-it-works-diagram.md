@@ -1,3 +1,3 @@
 # 📊 How It Works (Diagram)
 
-![](../.gitbook/assets/flowchart.png)
+![](<../.gitbook/assets/flowchart (1).png>)
