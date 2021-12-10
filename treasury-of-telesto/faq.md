@@ -26,7 +26,7 @@ Staking and bonding are considered beneficial to the protocol, while selling is 
 
 Thus, given two actors, all scenarios of what they could do and the effect on the protocol are shown here:
 
-![](https://docs.olympusdao.finance/\~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-MV4hwONledQK5nEDaUc%2Fsync%2F825671741c4d78f18d0985b8c6f08d3572cfd263.png?generation=1621266139529004\&alt=media)
+![](../.gitbook/assets/game\_theory.png)
 
 * If we both stake (3, 3), it is the best thing for both of us and the protocol (3 + 3 = 6).
 * If one of us stakes and the other one bonds, it is also great because staking takes TELO off the market and put it into the protocol, while bonding provides liquidity and MC02 for the treasury (3 + 1 = 4).
