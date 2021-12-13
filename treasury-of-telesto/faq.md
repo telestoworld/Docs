@@ -26,12 +26,12 @@ Staking and bonding are considered beneficial to the protocol, while selling is 
 
 Thus, given two actors, all scenarios of what they could do and the effect on the protocol are shown here:
 
-![](../.gitbook/assets/game\_theory.png)
-
 * If we both stake (3, 3), it is the best thing for both of us and the protocol (3 + 3 = 6).
 * If one of us stakes and the other one bonds, it is also great because staking takes TELO off the market and put it into the protocol, while bonding provides liquidity and MC02 for the treasury (3 + 1 = 4).
 * When one of us sells, it diminishes effort of the other one who stakes or bonds (1 - 1 = 0).
 * When we both sell, it creates the worst outcome for both of us and the protocol (-3 - 3 = -6).
+
+![](<../.gitbook/assets/game\_theory (1).png>)
 
 ### What is PCV and why is it important? <a href="#ohm-is-backed-not-pegged." id="ohm-is-backed-not-pegged."></a>
 
