@@ -6,7 +6,7 @@ We believe that the Metaverse should be owned by the DAO, with the major decisio
 
 Digiworld's main development stage begins soon as the Treasury is finished. We hope to have Digiworlds alpha build live by 2023 with VR support.
 
-TELO will be used as a currency of exchange within the Digiworlds of Telesto, giving an advantage to all those that had been staking TELO during the period of development. TELO will have the ability to be exchanged for SPACE within a Digiworld so that user's can build and customize their own areas. We also plan on implementing in-world NFT markets, mini-games, and much more.
+TELO will be used as a currency of exchange within the Digiworlds of Telesto, giving an advantage to all those that had been staking TELO during the period of development. TELO will have the ability to be exchanged for SPACE within a Digiworld so that user's can build and customize their own areas. We also plan on implementing in-world NFT markets, Play-2-Earn games, and much more.
 
 A roadmap for Telesto World will be unveiled separetly from this documentation as it will require its own documentation.
 
