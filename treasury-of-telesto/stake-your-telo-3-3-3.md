@@ -8,7 +8,7 @@ When you stake, you lock TELO and receive an equal amount of sTELO. Your sTELO b
 
 When you unstake, you burn sTELO and receive an equal amount of TELO. Unstaking means the user will forfeit the upcoming rebase reward. Note that the forfeited reward is only applicable to the unstaked amount; the remaining staked TELO (if any) will continue to receive rebase rewards.
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (3).png>)
 
 **Your Balance** tells you how many unstaked TELO are in your wallet. This is the maximum amount that you can stake.
 

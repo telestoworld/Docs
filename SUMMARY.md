@@ -17,6 +17,7 @@
 
 ## 💰 Buying and Storing TELO
 
+* [🦊 How to install Metamask](buying-and-storing-telo/how-to-install-metamask.md)
 * [🪙 Buy $TELO](buying-and-storing-telo/buy-usdtelo.md)
 * [☑ CELO Compatible Wallets](buying-and-storing-telo/celo-compatible-wallets.md)
 * [💱 Bridging Assets to CELO](buying-and-storing-telo/bridging-assets-to-celo.md)
