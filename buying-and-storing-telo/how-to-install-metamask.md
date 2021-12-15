@@ -14,8 +14,12 @@ You will know Metamask has been installed when you see the fox logo on the upper
 
 **Step 5**: Go to [Chainlist ](https://chainlist.org)and search for CELO
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 **Step 6**: Select "Add to Metamask" and you are ready to go!
 
 Celo network is now added to your metamask wallet extension and you will be able to buy TELO, stake TELO, and trade on CELO via [Ubeswap](https://ubeswap.org) or other.
+
+Your address will be here, copy it to paste it with the icon next to it
+
+![](<../.gitbook/assets/image (4).png>)
