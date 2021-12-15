@@ -1,6 +1,14 @@
 # Stake Your TELO (3,3,3)
 
-Staking allows you to earn TELO passively via compounding. By staking your TELO with Telesto DAO, you receive sTELO (staked TELO) in return at a 1:1 ratio. After that, your sTELO balance will increase automatically each 3 hours with the rewards.
+Staking is a passive, long-term strategy. By staking your TELO with Telesto DAO, you receive sTELO (staked TELO) in return at a 1:1 ratio. After that, your sTELO balance will increase automatically each 3 hours with the rewards.&#x20;
+
+The increase in your stake of TELO translates into a constantly falling cost basis converging on zero. This means even if the market price of TELO drops below your initial purchase price, given a long enough staking period, the increase in your staked TELO balance should eventually outpace the fall in price
+
+When you stake, you lock TELO and receive an equal amount of sTELO. Your sTELO balance rebases up automatically at the end of every epoch. sTELO is transferable and therefore composable with other DeFi protocols.
+
+When you unstake, you burn sTELO and receive an equal amount of TELO. Unstaking means the user will forfeit the upcoming rebase reward. Note that the forfeited reward is only applicable to the unstaked amount; the remaining staked TELO (if any) will continue to receive rebase rewards.
+
+![](../.gitbook/assets/image.png)
 
 **Your Balance** tells you how many unstaked TELO are in your wallet. This is the maximum amount that you can stake.
 
