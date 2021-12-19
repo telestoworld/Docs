@@ -14,6 +14,7 @@
   * [Economic Productivity](treasury-of-telesto/economic-productivity.md)
   * [DAO](treasury-of-telesto/dao.md)
   * [📑 Glossary](treasury-of-telesto/glossary.md)
+* [🚀 Launch Sale](launch-sale.md)
 
 ## 💰 Buying and Storing TELO
 
