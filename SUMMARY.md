@@ -1,6 +1,7 @@
 # Table of contents
 
 * [🔱 Introduction 🔱](README.md)
+* [🚀 Launch Sale](launch-sale.md)
 * [🛕 TREASURY of TELESTO](treasury-of-telesto/README.md)
   * [📊 How It Works (Diagram)](treasury-of-telesto/how-it-works-diagram.md)
   * [Stake Your TELO (3,3,3)](treasury-of-telesto/stake-your-telo-3-3-3.md)
@@ -14,7 +15,6 @@
   * [Economic Productivity](treasury-of-telesto/economic-productivity.md)
   * [DAO](treasury-of-telesto/dao.md)
   * [📑 Glossary](treasury-of-telesto/glossary.md)
-* [🚀 Launch Sale](launch-sale.md)
 
 ## 💰 Buying and Storing TELO
 
