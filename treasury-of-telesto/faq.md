@@ -72,7 +72,7 @@ _55,000+44,959,280=45,014,280 TELO_
 
 $27.5 million investment made by these stakers will turn into about $45 million based on cash flow alone if they stay staked (recall that 1 TELO is backed by MC02). In this bank run scenario, the stakers who stay staked not only get their money back, but also make some profit. Therefore, [(3,3)](broken-reference) isn’t just a popular meme, it is actually a dominant strategy.
 
-The above scenario is unlikely to play out because when other people find out that extremely high rewards are being paid to the stakers, they will copy the strategy by buying and staking TELO. This is also why the percentage of TELO staked in Telesto has consistently remained over 90% since launch.
+The above scenario is unlikely to play out because when other people find out that extremely high rewards are being paid to the stakers, they will copy the strategy by buying and staking TELO.&#x20;
 
 ## Why is the market price of TELO so volatile?
 
