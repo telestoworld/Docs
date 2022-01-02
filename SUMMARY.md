@@ -25,7 +25,7 @@
 
 ## 🪐 Metaverse
 
-* [🌐 Digiworlds](metaverse/digiworlds.md)
+* [🌐 Telesto World](metaverse/telesto-world.md)
 
 ## 🗣 Get in Touch
 
