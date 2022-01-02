@@ -14,6 +14,8 @@ Our vision of interoperability also extends to other blockchains and the non-reb
 
 Telesto World will initially support mobile and desktop browser and VR support within the months following. Some of the key features of Telesto World will include DigiWorld space ownership with royalties for all space holders, NFT support, P2E Games, Social Events, Gamified Finance & Governance, VRM support, Flying Cars, and more.
 
+We share clips and renders of Telesto/DigiWorld builds within Discord from time to time to join us and stay tuned if you would like sneak peeks!
+
 A roadmap for Telesto World will be unveiled separetly from this documentation as it will require its own documentation.
 
 ![](../.gitbook/assets/DesktopVidya\_Trim.gif)
