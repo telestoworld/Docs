@@ -12,7 +12,7 @@ Another important factor is our intention to establish relationships with other 
 
 Our vision of interoperability also extends to other blockchains and the non-rebasable governance version of our token gTELO. gTELO stands for governance TELO, and is essentially wrapped staked TELO that allows you to use it on other blockchains. It is priced exactly the same as regular TELO. You still collect rebase rewards just as if you had sTELO, but you won't see your token balance increase because the increase in value is based on the Current Index at the time of purchase and sale
 
-Telesto World will initially support mobile and desktop browser and VR support within the months following. Some of the key features of Telesto World will include DigiWorld space ownership with royalties for all space holders, NFT support, P2E Games, Social Events, VRM support, Flying Cars, and more.
+Telesto World will initially support mobile and desktop browser and VR support within the months following. Some of the key features of Telesto World will include DigiWorld space ownership with royalties for all space holders, NFT support, P2E Games, Social Events, Gamified Finance & Governance, VRM support, Flying Cars, and more.
 
 A roadmap for Telesto World will be unveiled separetly from this documentation as it will require its own documentation.
 
