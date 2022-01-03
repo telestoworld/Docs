@@ -8,6 +8,8 @@ TeloChan Marketplace will be an embedded feature of the treasury that serves as 
 
 Some of these assets will have application within DigiWorlds (ie. space, wearables, avatars, props, nfts) while others may not. Creators will be able to set their own royalties for assets they mint, while assets like "space" from Telesto World will be decided by the DAO.
 
+![](<../.gitbook/assets/image (4).png>)
+
 When TeloChan Marketplace is integrated into Telesto World, it will serve as the central hub for digital assets and space auctions in the DigiWorld metaverse.&#x20;
 
 \-Creators will be able to post their latest creations, or DigiWorld-ready Avatars to be bought and used by the people of Telesto.&#x20;
