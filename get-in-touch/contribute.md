@@ -2,7 +2,7 @@
 
 ![](<../.gitbook/assets/Into the metaverse.jpg>)
 
-As many of you may have guessed: it takes alot of rocket fuel, collaboration, and word-of-mouth to build a healthy Metaverse, treasury, and ecosystem. Our core team is currently comprised of 2 full-time developers and a couple of auxilliary members.
+As many of you may have guessed: it takes some rocket fuel, collaboration, and word-of-mouth to build a healthy Metaverse, treasury, and ecosystem. Our core team is currently comprised of 2 full-time developers and a couple of auxilliary members.
 
 We are always looking for more developers, artists, and freethinkers to help us in our fight to make the Metaverse truly decentralized and free from corporate control. To contribute to the DAO or to apply to assist with building Digiworlds, please send us an email at hello@telesto.world
 
