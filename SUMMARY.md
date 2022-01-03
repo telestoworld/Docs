@@ -26,6 +26,7 @@
 ## 🪐 Metaverse
 
 * [🌐 Telesto World](metaverse/telesto-world.md)
+* [🏪 TeloChan Market](metaverse/telochan-market.md)
 
 ## 🗣 Get in Touch
 
