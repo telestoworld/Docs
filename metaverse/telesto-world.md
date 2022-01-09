@@ -1,5 +1,8 @@
 ---
 description: Telesto World & other DigiWorlds
+cover: >-
+  https://images.unsplash.com/photo-1637664067109-a6a00840d894?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw4fHxtZXRhdmVyc2V8ZW58MHx8fHwxNjQxNzYzNDQ3&ixlib=rb-1.2.1&q=85
+coverY: 734.2331288343559
 ---
 
 # 🌐 Telesto World
