@@ -32,5 +32,4 @@ We recommend joining the DAO Discord to stay in touch regarding the latest updat
 
 We are devoted to staying vigilant and attentive to the needs of the community. Feel free to ask us questions and reach out through Discord and tag a Titan to stay in touch.
 
-![](.gitbook/assets/telestodaowatertemple.png)
-
+![](.gitbook/assets/tethys.png)
