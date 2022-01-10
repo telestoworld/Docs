@@ -35,5 +35,3 @@ No one. Telesto is DAO-governed. All decisions are formed by community members o
 
 ![](<.gitbook/assets/ezgif.com-gif-maker (6).gif>)
 
-![](<.gitbook/assets/image0 (3).jpeg>)
-
