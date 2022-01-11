@@ -4,10 +4,10 @@
 
 * [x] Treasury live on Testnet
 * [x] Multisignature Wallet Implementation
-* [ ] Launch Sale
-* [ ] Staking and Bonding
+* [ ] Treasury Launch Sale
+* [ ] Staking and Bonding live
 * [ ] Governance and Voting
-* [ ] Listing
+* [ ] Exchange Listing
 * [ ] Strategic Partnerships
 * [ ] Additional Bonds
 * [ ] Marketing & Advertising strategy
