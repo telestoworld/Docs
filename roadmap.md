@@ -14,3 +14,11 @@
 * [ ] TeloChan Marketplace
 * [ ] NFTs and 9,9 for the environment
 * [ ] Telesto World gallery first iteration
+
+## Q2 2021
+
+* [ ] Space Auction for Telesto World
+* [ ] DigiWorld Development
+* [ ] Treasury 2.0 Improvements
+* [ ] Lightning Swaps
+* [ ] Telesto TV
