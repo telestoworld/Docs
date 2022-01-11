@@ -2,6 +2,7 @@
 
 ## Q1 2022
 
+* [x] Audited Smart Contracts
 * [x] Treasury live on Testnet
 * [x] Multisignature Wallet Implementation
 * [ ] Treasury Launch Sale
