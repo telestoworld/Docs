@@ -2,6 +2,7 @@
 
 * [🔱 Introduction 🔱](README.md)
 * [🚀 Launch Sale](launch-sale.md)
+* [🗺 Roadmap](roadmap.md)
 * [🛕 TREASURY of TELESTO](treasury-of-telesto/README.md)
   * [📊 How It Works (Diagram)](treasury-of-telesto/how-it-works-diagram.md)
   * [Stake Your TELO (3,3,3)](treasury-of-telesto/stake-your-telo-3-3-3.md)
@@ -33,7 +34,3 @@
 * [🚀 Contribute](get-in-touch/contribute.md)
 * [DAO Discord](https://discord.gg/SyN6P8WXwE)
 * [DAO Twitter](https://twitter.com/TelestoDao)
-
-***
-
-* [🗺 Roadmap](roadmap.md)
