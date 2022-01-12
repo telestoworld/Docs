@@ -8,7 +8,7 @@ description: The largest treasury reserve protocols for the Metaverse on Celo ne
 
 ## Phase 0: Launch Sale
 
-The Telesto Launch Sale on January 18th, 2022 will be the mechanism through which we provide initial liquidity and initial backing for the treasury and TELO. 30,000 TELO token will be minted for the event. Initial price of TELO token will be 1 MCO2/TELO for 600 unique addresses, with each address limited to 50 TELO to be paid for with CELO. The Launch Sale event will last for 48 hours. This will result in $340-360K (at current market prices) in total sales from the Launch Sale&#x20;
+The Telesto Launch Sale on January 25th, 2022 will be the mechanism through which we provide initial liquidity and initial backing for the treasury and TELO. 30,000 TELO token will be minted for the event. Initial price of TELO token will be 1 MCO2/TELO for 600 unique addresses, with each address limited to 50 TELO to be paid for with CELO. The Launch Sale event will last for 48 hours. This will result in $340-360K (at current market prices) in total sales from the Launch Sale&#x20;
 
 * The first $220K CELO will be used to bootstrap the liquidity and provide initial treasury backing for the TELO token.
   * $76,000 MCO2 will be deposited to the treasury, backing the initial TELO supply.
