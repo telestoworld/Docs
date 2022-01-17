@@ -26,7 +26,7 @@ The Telesto Launch Sale on January 25th, 2022 will be the mechanism through whic
 <mark style="color:blue;background-color:blue;">We believe raising funds in this manner is the best course of action to remain 100% clear and transparent with the members of the Telesto community. No other private sale or listing will take place as this could cause potential dillution of shares and inequality. A fixed rate round will ensure the Telesto DAO can be sustained in a healthy manner that benefits the protocol. Future development work can be funded via the Telesto DAO through a DAO snapshot voting procedure if is proposed by a member of the DAO along with other proposals regarding protocol health and growth.</mark>&#x20;
 {% endhint %}
 
-We plan to launch the bonding function within 48 hours after the Launch Sale. We will target 12% discount positive ROI for bonders across the board for all pools. A total of 42k TELO tokens will be minted during the Launch Sale (30k for presale and 12k required to pair with MCO2 to initialize liquidity). If TELO tokens are not sold out during the Launch Sale, any remaining TELO tokens will be sent back to the Telesto DAO&#x20;
+We plan to launch the bonding function within 48 hours after the Launch Sale. We will target 6% discount positive ROI for bonders across the board for all pools. A total of 42k TELO tokens will be minted during the Launch Sale (30k for presale and 12k required to pair with MCO2 to initialize liquidity). If TELO tokens are not sold out during the Launch Sale, any remaining TELO tokens will be sent back to the Telesto DAO&#x20;
 
 We recommend joining the DAO Discord to stay in touch regarding the latest updates. (link in the left sidebar)
 
