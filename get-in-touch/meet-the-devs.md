@@ -1,4 +1,4 @@
-# 🤝 Meet the Devs
+# 🌴 Meet the Devs
 
 For sake of transparency, Telesto will respect the wishes of each individual developer and honor their wish to doxx or to remain anonymous. Thus, we will, for the time being, have a mixture of doxxed and undoxxed developers.
 
@@ -8,7 +8,7 @@ For sake of transparency, Telesto will respect the wishes of each individual dev
 
 Jupityr, Co-founder, is a software developer with over 10 years of experience in developing on enterprise-level and personal projects. He has shipped several apps to both the Apple and Google Play store and is also a successful NFT artist and Developer within the larger crypto community.&#x20;
 
-![](../.gitbook/assets/jupiter.jpg)
+![](../.gitbook/assets/1.png)
 
 
 

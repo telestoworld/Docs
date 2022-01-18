@@ -1,4 +1,4 @@
-# 🚀 Contribute
+# 🏗 Contribute
 
 ![](<../.gitbook/assets/Into the metaverse.jpg>)
 
