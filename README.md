@@ -12,7 +12,7 @@ Telesto is a DAO for a multi-chain decentralized DigiWorld future that is censor
 We believe that DigiWorld’s should be owned by the DAO and that:
 
 * Tools and libraries we use should be open source licensed
-* Code should be visible on Github and is available for pull requests
+* Code should be visible on [Github](https://github.com/telestoworld) and is available for pull requests
 * Developers should be accessible on Discord
 * Major Development decisions are proposed and decided on via Governance
 * Our platform is accessible for creators and artists and allows them to earn user-set royalties for their work… including 3d assets, avatars, and other NFTs.
