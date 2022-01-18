@@ -5,7 +5,7 @@
 * [x] Multisignature Wallet Implementation
 * [x] Founders Keys
 * [x] Doxx/Discard OHM
-* [ ] DigiKeys
+* [ ] Surprise
 * [ ] TELO initial mint
 * [ ] Governance and Voting
 * [ ] MultiChain exchange listing
