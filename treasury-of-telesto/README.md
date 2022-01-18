@@ -1,2 +1,0 @@
-# 🛕 TREASURY of TELESTO
-

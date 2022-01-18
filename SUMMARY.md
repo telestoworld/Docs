@@ -1,33 +1,10 @@
 # Table of contents
 
 * [🔱 Introduction 🔱](README.md)
-* [🚀 Launch Sale](launch-sale.md)
+* [🚀 DigiLaunch](digilaunch.md)
 * [🗺 Roadmap](roadmap.md)
-* [🛕 TREASURY of TELESTO](treasury-of-telesto/README.md)
-  * [📊 How It Works (Diagram)](treasury-of-telesto/how-it-works-diagram.md)
-  * [Stake Your TELO (3,3,3)](treasury-of-telesto/stake-your-telo-3-3-3.md)
-  * [Purchase A Bond (1, 1)](treasury-of-telesto/purchase-a-bond-1-1.md)
-  * [Bond Selections](treasury-of-telesto/bond-selections.md)
-  * [FAQ](treasury-of-telesto/faq.md)
-  * [Initial Network State](treasury-of-telesto/initial-network-state.md)
-  * [Policy](treasury-of-telesto/policy.md)
-  * [Market Dynamics](treasury-of-telesto/market-dynamics.md)
-  * [Telesto Game Theory](treasury-of-telesto/telesto-game-theory.md)
-  * [Economic Productivity](treasury-of-telesto/economic-productivity.md)
-  * [DAO](treasury-of-telesto/dao.md)
-  * [📑 Glossary](treasury-of-telesto/glossary.md)
-
-## 💰 Buying and Storing TELO
-
-* [🦊 How to install Metamask](buying-and-storing-telo/how-to-install-metamask.md)
-* [🪙 Buy $TELO](buying-and-storing-telo/buy-usdtelo.md)
-* [☑ CELO Compatible Wallets](buying-and-storing-telo/celo-compatible-wallets.md)
-* [💱 Bridging Assets to CELO](buying-and-storing-telo/bridging-assets-to-celo.md)
-
-## 🪐 Metaverse
-
-* [🌐 Telesto World](metaverse/telesto-world.md)
-* [🏪 TeloChan Market](metaverse/telochan-market.md)
+* [🌐 Telesto World](telesto-world.md)
+* [🏪 TeloChan Market](telochan-market.md)
 
 ## 🗣 Get in Touch
 
