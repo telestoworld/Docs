@@ -7,7 +7,9 @@ coverY: 734.2331288343559
 
 # 🌐 Telesto World
 
-In Telesto, we use the term "Digiworlds". This is to further distance ourselves from Zuckerberg's "Meta".&#x20;
+In Telesto, we use the term "Digiworlds".
+
+This is to further distance ourselves from Zuckerberg's "Meta".&#x20;
 
 We believe that Telesto World and any other DigiWorlds should be owned by the DAO, with the major decisions and proposals carried out via governance. We believe the tools that we use for development should also be open source licensed (ie Godot, Celo, Chainlink).
 
