@@ -8,7 +8,7 @@ For sake of transparency, Telesto will respect the wishes of each individual dev
 
 ![](<../.gitbook/assets/203555792\_10216555252868496\_4514686634997909495\_n (1).jpg>)
 
-Jupityr, Co-founder, is a software developer with over 10 years of experience in developing enterprise-level and personal projects. He has shipped several apps on both the Apple and Google Play store and is also a successful NFT artist and Developer within the larger crypto community.&#x20;
+Jupityr, Co-founder, is a software developer with over 10 years of experience in developing enterprise-level and personal projects and has shipped several apps on both the Apple and Google Play store. Jupityr is also a successful NFT artist and Developer within the larger crypto community.&#x20;
 
 ![](../.gitbook/assets/1.png)
 
