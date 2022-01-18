@@ -11,7 +11,7 @@ Telesto is a for a DAO for a multi-chain decentralized DigiWorld future that is 
 
 We believe that DigiWorld’s should be owned by the DAO and that:
 
-* Tools and libraries we use should be open source licensed (ie Godot, Celo, Chainlink)
+* Tools and libraries we use should be open source licensed
 * Code should be visible on Github and is available for pull requests
 * Developers should be accessible on Discord
 * Major Development decisions are proposed and decided on via Governance
