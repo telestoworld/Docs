@@ -3,10 +3,11 @@
 ## Q1 2022
 
 * [x] Multisignature Wallet Implementation
-* [ ] DigiKey Launch
-* [ ] TELO Minting
+* [x] Founders Keys
+* [x] Doxx/Discard OHM
+* [ ] DigiKey's and additional Founders Keys for WL'rs
+* [ ] TELO initial mint
 * [ ] Governance and Voting
-* [ ] Exchange Listing
 * [ ] MultiChain exchange listing
 * [ ] TeloChan Marketplace
 * [ ] NFTs, Avatars, Digital Assets
