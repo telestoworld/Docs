@@ -7,7 +7,7 @@ coverY: -361.22699386503064
 
 ## What is Telesto?
 
-Telesto is a for a DAO for a multi-chain decentralized DigiWorld future that is censorship-resistant, teeming with experience, and community-first. We are looking beyond the current models towards a multiverse future that can have lasting and meaningful impact.
+Telesto is a DAO for a multi-chain decentralized DigiWorld future that is censorship-resistant, teeming with experience, and community-first. We are looking beyond the current models towards a multiverse future that can have lasting and meaningful impact.
 
 We believe that DigiWorld’s should be owned by the DAO and that:
 
