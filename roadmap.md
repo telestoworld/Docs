@@ -8,7 +8,8 @@
 * [ ] Surprise
 * [ ] TELO initial mint
 * [ ] Governance and Voting
-* [ ] MultiChain exchange listing
+* [ ] Exchange listing
+* [ ] Bridge
 * [ ] TeloChan Marketplace
 * [ ] NFTs, Avatars, Digital Assets
 * [ ] Telesto World gallery first iteration
