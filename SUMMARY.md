@@ -13,3 +13,7 @@
 * [🌴 Meet the Devs](get-in-touch/meet-the-devs.md)
 * [DAO Discord](https://discord.gg/SyN6P8WXwE)
 * [DAO Twitter](https://twitter.com/TelestoDao)
+
+***
+
+* [⛓ 2 Chain Architecture](2-chain-architecture.md)

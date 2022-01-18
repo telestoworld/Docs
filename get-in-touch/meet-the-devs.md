@@ -2,6 +2,8 @@
 
 For sake of transparency, Telesto will respect the wishes of each individual developer and honor their wish to doxx or to remain anonymous. Thus, we will, for the time being, have a mixture of doxxed and undoxxed developers.
 
+![](<../.gitbook/assets/image0 (4) (1).jpeg>)
+
 [Stuart Gardner](https://www.linkedin.com/in/stuarttgardner/), Co-founder, also know as Satyrn is a developer and artist with over 4 years development experience with several frontend and backend frameworks. He is also a 3D artist and Blender fanatic currently living in Brasil.
 
 ![](<../.gitbook/assets/203555792\_10216555252868496\_4514686634997909495\_n (1).jpg>)
