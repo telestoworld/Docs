@@ -1,3 +1,7 @@
+---
+description: The Telesto Core Team
+---
+
 # 🌴 Meet the Devs
 
 For sake of transparency, Telesto will respect the wishes of each individual developer and honor their wish to doxx or to remain anonymous. Thus, we will, for the time being, have a mixture of doxxed and undoxxed developers.
