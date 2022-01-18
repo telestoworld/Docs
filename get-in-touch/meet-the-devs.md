@@ -2,13 +2,11 @@
 description: The Telesto Core Team
 ---
 
-# 🌴 Meet the Devs
+# 💻 Meet the Devs
 
 For sake of transparency, Telesto will respect the wishes of each individual developer and honor their wish to doxx or to remain anonymous. Thus, we will, for the time being, have a mixture of doxxed and undoxxed developers.
 
-![](<../.gitbook/assets/image0 (4) (1).jpeg>)
-
-
+![](../.gitbook/assets/TELESTOTURTLE1.15.png)
 
 Jupityr, Co-founder, is a software developer with over 10 years of experience in developing enterprise-level and personal projects and has shipped several successful apps on both the Apple and Google Play store. Jupityr is also a successful NFT artist and Developer within the larger crypto community.&#x20;
 
@@ -24,3 +22,4 @@ Jupityr, Co-founder, is a software developer with over 10 years of experience in
 
 ![https://github.com/KayTiwari](../.gitbook/assets/abhitiwari.jpg)
 
+![](<../.gitbook/assets/image0 (4).jpeg>)
