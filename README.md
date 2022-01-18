@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/7225605.jpg
-coverY: -361.22699386503064
+cover: .gitbook/assets/TELESTOOCEAN1.15.png
+coverY: 0
 ---
 
 # 🔱 Introduction 🔱
