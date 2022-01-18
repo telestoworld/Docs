@@ -12,7 +12,7 @@ Jupityr, Co-founder, is a software developer with over 10 years of experience in
 
 
 
-[Abhi Tiwari](https://www.linkedin.com/in/abhi-kay-tiwari/) is a full time software developr, digital marketer, and semi co-founder who goes by "Mars" in the Discord.
+[Abhi Tiwari](https://www.linkedin.com/in/abhi-kay-tiwari/) is a full time software developer, digital marketer, and semi co-founder who goes by "Mars" in the Discord.
 
 ![https://www.linkedin.com/in/abhi-kay-tiwari/](../.gitbook/assets/1564205721179.jfif)
 
