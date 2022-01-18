@@ -13,7 +13,7 @@ We believe that DigiWorld’s should be owned by the DAO and that:
 
 * Tools and libraries we use should be open source licensed
 * Code should be visible on [Github](https://github.com/telestoworld) and is available for pull requests
-* Developers should be accessible on Discord
+* Developers should be accessible on [Discord](https://discord.com/telestodao)
 * Major Development decisions are proposed and decided on via Governance
 * Our platform is accessible for creators and artists and allows them to earn user-set royalties for their work… including 3d assets, avatars, and other NFTs.
 * Transparent collaboration occurs and development chat in Discord or other future chat mediums is accesible to the DAO and members of the server.
