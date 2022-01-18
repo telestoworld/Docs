@@ -30,5 +30,5 @@ Telesto was formed when Jupityr and Satyrn opted to become renegades in the figh
 
 No one. Telesto is DAO-governed. All decisions are formed by community members on the forum and made by token holders through snapshot voting.
 
-![](<.gitbook/assets/ezgif.com-gif-maker (6).gif>)
+![](<.gitbook/assets/ezgif.com-gif-maker (6) (1).gif>)
 
