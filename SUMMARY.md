@@ -5,6 +5,7 @@
 * [🗺 Roadmap](roadmap.md)
 * [🌐 Telesto World](telesto-world.md)
 * [🏪 TeloChan Market](telochan-market.md)
+* [🌚 TELO](telo.md)
 
 ## 🗣 Get in Touch
 
@@ -12,7 +13,3 @@
 * [🌴 Meet the Devs](get-in-touch/meet-the-devs.md)
 * [DAO Discord](https://discord.gg/SyN6P8WXwE)
 * [DAO Twitter](https://twitter.com/TelestoDao)
-
-***
-
-* [🌚 TELO](telo.md)
