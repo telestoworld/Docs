@@ -16,6 +16,8 @@ Votes are counted in 1:1 fashion where 1 person = 1 vote.
 
 Once you become a member, you will be added to the "council" of the DAO. This will give you voting rights in the DAO and also unlock a channel in the Discord that is read-only for all non-council members called "the council".
 
+This is a channel where members of Telesto DAO can have discussion and hold quorum over major Telesto World decisions.
+
 Another discord channel "ello-guvnor" will also receive alerts whenever a new proposal is created.
 
-&#x20;![](<.gitbook/assets/image (5).png>)
+&#x20;![](<../.gitbook/assets/image (5).png>)

@@ -12,6 +12,7 @@
 * [🛕 Telesto Finance DAO](telesto-protocols/dao.md)
 * [ℹ Contracts, Wallets](telesto-protocols/contracts-wallets.md)
 * [🌐 Telesto World](telesto-protocols/telesto-world.md)
+* [🌐 Telesto World DAO](telesto-protocols/telesto-world-dao.md)
 * [🏪 TeloChan Market](telesto-protocols/telochan-market.md)
 
 ## How to Guides
@@ -25,7 +26,3 @@
 * [DAO Twitter](https://twitter.com/TelestoDao)
 * [💻 Meet the Devs](get-in-touch/meet-the-devs.md)
 * [🏗 Contribute](get-in-touch/contribute.md)
-
-***
-
-* [🌐 Telesto World DAO](telesto-world-dao.md)
