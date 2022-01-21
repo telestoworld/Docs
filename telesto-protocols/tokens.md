@@ -4,7 +4,7 @@ description: TELO, MINERAL, and SCRAP
 
 # 🪙 Tokens
 
-## TELO and how it is different
+## &#x20;TELO and how it is different
 
 Unlike other stablecoins, (UST, for example) that are pegged to the US Dollar. $TELO is instead pegged to $NEAR token from Near Protocol.&#x20;
 
@@ -12,11 +12,13 @@ As many analysis show, the US Dollar is actually losing value over time. Pegging
 
 ![](<../.gitbook/assets/image (1) (1).png>)
 
+![](<../.gitbook/assets/image (5).png>)
+
 Instead, TELO is pegged to a cryptocurrency that we believe in, NEAR and the treasury runs atop Aurora an EVM shard of Near that supports solidity smart contracts.
 
-Not only will this allow TELO to be ERC20 and multichain, it will allow our core team to expand on use cases for the token within Telesto World and/or other Metaverses, making TELO truly a currency for the metaverse that maintains its peg to Near while also retaining EVM support.
+![](<../.gitbook/assets/image (3).png>)
 
-![](<../.gitbook/assets/ezgif.com-gif-maker (6).gif>)
+Not only will this allow TELO to be ERC20 and multichain, it will allow our core team to expand on use cases for the token within Telesto World and/or other Metaverses, making TELO truly a currency for the metaverse that maintains its peg to Near while also retaining EVM support.
 
 
 
