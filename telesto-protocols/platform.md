@@ -13,7 +13,7 @@
     **2%** goes to DEV/ARTIST fund
 * Epoch Expansion: Current expansion cap base on TELOsupply, if there are bonds to be redeemed, 65% of minted TELO goes to treasury until its sufficiently full to meet bond redemption. If there is no debt it will follow max capped expansion rate
 
-### Masonry UI Available information
+### Trident Lounge UI Available information
 
 Next **Seigniorage** indicates a countdown timer to the next epoch. (Each epoch duration lasts for 6 hours)                                                                                                              &#x20;
 
