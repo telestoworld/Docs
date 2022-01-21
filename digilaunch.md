@@ -30,7 +30,7 @@ If the launch sale generates less than $250,000, all ETH will be used to start g
 
 If the launch sale generates more than $250,000 that ETH will be given to the developer fund to start the immediate development of Telesto World.&#x20;
 
-The initial minting of 30,000 TELO, as well as the launch of the protocol, is to occur before February 1st, 2022 and all DigiKey holders will be airdropped their portion of TELO.
+The initial minting of TELO, as well as the launch of the protocol, is to occur before February 1st, 2022 and all DigiKey holders will be airdropped their portion of TELO.
 
 \*IMPORTANT\*.&#x20;
 
