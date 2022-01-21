@@ -10,7 +10,9 @@ description: The largest treasury reserve protocols for the Metaverse on Celo ne
 
 DigiKeys NFTs will serve as the mechanism through which we provide initial liquidity and funding for the Telesto Protocols. All DigiKey NFT holders will be airdropped TELO in proportion to the amount of NFTS they hold when snapshots are taken 48 hours after the mint page is live (limit 5 per person).
 
-The DigiKeys will be minted on Aurora and Ethereum with the Initial mint price of $500 PER nft to be paid for in ETH (or aETH, bridged ethereum on Aurora). Minting on Aurora and Ethereum will give provide ethereum users a chance to check out Aurora, a more efficient and eco-friendly EVM that runs on top of Near protocol.&#x20;
+1,000 DigiKeys will be minted on Aurora and 1,000 on Ethereum.&#x20;
+
+The Initial mint price of $500 PER nft to be paid for in ETH (or aETH, bridged ethereum on Aurora). Minting on Aurora and Ethereum will give provide ethereum users a chance to check out Aurora, a more efficient and eco-friendly EVM that runs on top of Near protocol.&#x20;
 
 Those that have already whitelisted will receive a 16% discount for a total of $420 per NFT.&#x20;
 
@@ -24,11 +26,13 @@ Transactions between Near and Aurora are near instant and very cheap, while you 
 
 ## Distribution of launch sale funds
 
-The launch sale will result in approximately $290,000 if all DigiKeys are minted. This number is subject to change if less whitelisters show up for the sale, or the collection does not sell out.
+The launch sale will result in approximately $992,000 if all DigiKeys are minted. This number is subject to change if less whitelisters show up for the sale, or the collection does not sell out.
 
-If the launch sale generates less than $250,000, all ETH will be used to start genesis pools for the protocol on Aurora.
+85% of the funds generated from the launch sale will go directly into providing initial liquidity for to the Telesto Finance DAO to provide initial liquidity and start the Genesis Pools for the protocol.
 
-If the launch sale generates more than $250,000 that ETH will be given to the developer fund to start the immediate development of Telesto World.&#x20;
+15% will given to the development fund to start the immediate development of Telesto World.
+
+This will result in $849,200 for the Telesto Finance Protocol and $142,800 to fund the development of Telesto World. To truly get this project off the ground and have the development of Telesto World DigiWorld Metaverse realized in a reasonable amount of time, we see this as the best course of action for investors, supporters and team alike.&#x20;
 
 The initial minting of TELO, as well as the launch of the protocol, is to occur before February 1st, 2022 and all DigiKey holders will be airdropped their portion of TELO.
 
