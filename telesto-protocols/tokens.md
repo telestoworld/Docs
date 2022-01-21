@@ -8,7 +8,7 @@ description: TELO, MINERAL, and SCRAP
 
 Unlike other stablecoins, (UST, for example) that are pegged to the US Dollar. $TELO is instead pegged to $NEAR token from Near Protocol.&#x20;
 
-As many analysis show, the US Dollar is actually losing value over time. This pegging to the US dollar is signing up for a currency that is potentially equally as inflationary.
+As many analysis show, the US Dollar is actually losing value over time. Pegging our token to the US dollar would be akin to creating a token that is equally as inflationary.
 
 ![](<../.gitbook/assets/image (1) (1).png>)
 
