@@ -8,7 +8,7 @@ SCRAP's are unique tokens that can be utilized to help stabilize TELO price arou
 
 ### When can I buy SCRAP? <a href="#when-can-i-buy-tbond-bonds" id="when-can-i-buy-tbond-bonds"></a>
 
-TBOND can be purchased only on contraction periods, when [TWAP of TELO is below 1](https://docs.tomb.finance/faq-1#1-when-can-i-swap-usdtomb-for-usdtbond).Every new epoch on contraction periods, TBONDs are issued in the amount of 3% of current TELO circulating supply, with a max debt amount of 35%. This means that if bonds reach 35% of circulating supply of TELO, no more bonds will be issued.Note: SCRAP TWAP (time-weighted average price) is based on TELO price TWAP from the previous epoch as it ends. This mean that TELO TWAP is real-time and SCRAP TWAP is not.
+SCRAP can be purchased only on contraction periods, when TWAP of TELO is below 1 dollar.  Every new epoch on contraction periods, SCRAP tokens are issued in the amount of 3% of current TELO circulating supply, with a max debt amount of 35%. This means that if bonds reach 35% of circulating supply of TELO, no more bonds will be issued.Note: SCRAP TWAP (time-weighted average price) is based on TELO price TWAP from the previous epoch as it ends. This mean that TELO TWAP is real-time and SCRAP TWAP is not.
 
 ### Where can I buy SCRAP? <a href="#where-can-i-buy-tbond-bonds" id="where-can-i-buy-tbond-bonds"></a>
 
