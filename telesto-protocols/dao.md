@@ -6,6 +6,8 @@ description: >-
 
 # 🛕 Telesto Finance DAO
 
+The fund controlled by the developers of TOMB Finance that conducts buybacks and acts as a reserve to help maintain the peg.
+
 ### Functions of Telesto Finance DAO
 
 The Dao fund is the second line of defense on top of the Scrap Mechanism. The DAO fund is controlled by the Developers and **will later move to a governance system** to vote on using funds in certain areas of the project and outside including investment, marketing etc.
