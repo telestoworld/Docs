@@ -25,3 +25,7 @@
 * [DAO Twitter](https://twitter.com/TelestoDao)
 * [💻 Meet the Devs](get-in-touch/meet-the-devs.md)
 * [🏗 Contribute](get-in-touch/contribute.md)
+
+***
+
+* [🌐 Telesto World DAO](telesto-world-dao.md)
