@@ -20,4 +20,4 @@ Some of these assets will have application within DigiWorlds (ie. space, wearabl
 
 #### <mark style="color:blue;">We believe this will empower digital creators with a great opportunity to share, sell, and shape the future of Telesto and other DigiWorlds. The DigiWorld metaverse can only thrive when creator's are empowered.</mark>
 
-![](<../.gitbook/assets/image (2) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1) (1).png>)

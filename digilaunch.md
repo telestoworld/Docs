@@ -22,7 +22,7 @@ Transactions between Near and Aurora are near instant and very cheap, while you 
 
 [Trisolaris](https://www.trisolaris.io/#/swap) is the highest volume exchange on Aurora and also has a Bridges section with options from Terra and other chains.
 
-![](<.gitbook/assets/image (2) (1).png>)
+![](<.gitbook/assets/image (2) (1) (1).png>)
 
 ## Distribution of launch sale funds
 
