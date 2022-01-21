@@ -4,7 +4,7 @@ description: >-
   and acts as a reserve to help maintain the peg.
 ---
 
-# 🛕 DAO
+# 🛕 Telesto Finance DAO
 
 ### Functions of Telesto Finance DAO
 
