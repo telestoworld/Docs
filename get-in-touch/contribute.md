@@ -6,7 +6,7 @@ We are always looking for more developers, artists, and freethinkers to help us 
 
 We will gladly accept any contributions from individuals who would also like to see the vision of a decentralized and non-corporate controlled realized more quickly.
 
-[0xC37Ac3436Df43fc9F385A14CAC9eaA2a49D0F19B](https://explorer.celo.org/address/0xC37Ac3436Df43fc9F385A14CAC9eaA2a49D0F19B/transactions) is the multisig dev wallet on Celo
+telesto.sputnik-dao.near is the DAO's address on Near and we will post the DAO multisig on Aurora over the next coming week.
 
 Thank you from the Telesto Team!
 
