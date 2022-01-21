@@ -42,7 +42,7 @@ The initial minting of TELO, as well as the launch of the protocol, is to occur 
 
 Anyone who has a NFT in their wallet will be eligible for their portion of TELO tokens. Since TELO is pegged to the price of NEAR at a 10:1 ratio, the amount of tokens distributed will be dynamically adjusted depending on market prices. For example, with current conditions would $400 worth of TELO would be approximately 259 TELO tokens since NEAR is currently at $15.42 USD and thus TELO would be pegged at $1.54.
 
-We will airdrop all NFT holders their portion of TELO in the days following the snapshot and start the protocol shortly after. We wish to remain vague on the timing of the launch of the protocols in order to retain a competitive advantage and to ensure fairness.
+We will airdrop all NFT holders their portion of TELO in the days following the snapshot and start the protocol shortly after. We wish to remain vague on the timing of the launch of the protocols in order to retain a competitive advantage and to ensure fairness (aka stealth launch).
 
 
 
