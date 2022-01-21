@@ -6,9 +6,11 @@ description: The largest treasury reserve protocols for the Metaverse on Celo ne
 
 ## Phase 0: The DigiKey
 
-DigiKeys will serve as a passport to not only the initial minting of TELO, but to Telesto itself. The minting price will also serve as the initial liquidity for Telesto Finance Genesis Pools.
+![](.gitbook/assets/DigiKey.png)
 
-600 DigiKeys will be minted with the Initial mint price of $500 to be paid for in Eth on Aurora.
+DigiKeys NFTs will serve as the mechanism through which we provide initial liquidity and funding for the Telesto Protocols. All DigiKey NFT holders will be airdropped TELO after snapshots are taken 48 hours after the mint page is live.
+
+600 DigiKeys will be minted on Aurora with the Initial mint price of $500 to be paid for in ETH.
 
 Those that have already whitelisted will receive a 16% discount for a total of $420.
 
