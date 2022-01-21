@@ -10,7 +10,7 @@ DigiKeys will serve as a passport to not only the initial minting of TELO, but t
 
 600 DigiKeys will be minted with the Initial price of $500.
 
-Those that have already whitelisted will receive a 20% discount for a total of $420.
+Those that have already whitelisted will receive a 16% discount for a total of $420.
 
 All mints must be paid for ETH on Aurora.&#x20;
 
