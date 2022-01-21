@@ -25,4 +25,4 @@ We intend to put the TELO token on many chains and exchanges as possible to offe
 
 Telesto World will initially support mobile and desktop browser and VR support within the months following.&#x20;
 
-![](.gitbook/assets/DesktopVidya\_Trim.gif)
+![](../.gitbook/assets/DesktopVidya\_Trim.gif)

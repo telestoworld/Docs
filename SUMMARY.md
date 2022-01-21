@@ -2,18 +2,22 @@
 
 * [🔱 Introduction 🔱](README.md)
 * [🚀 DigiLaunch](digilaunch.md)
+* [🗺 Roadmap](roadmap.md)
 
 ## Telesto Protocols
 
 * [🪙 Tokens](telesto-protocols/tokens.md)
 * [🏦 Platform](telesto-protocols/platform.md)
 * [🔧 Scrap Mechanism](telesto-protocols/scrap-mechanism.md)
+* [🛕 DAO](telesto-protocols/dao.md)
+* [ℹ Contracts, Wallets](telesto-protocols/contracts-wallets.md)
+* [🌐 Telesto World](telesto-protocols/telesto-world.md)
+* [🏪 TeloChan Market](telesto-protocols/telochan-market.md)
 
-***
+## How to Guides
 
-* [🗺 Roadmap](roadmap.md)
-* [🌐 Telesto World](telesto-world.md)
-* [🏪 TeloChan Market](telochan-market.md)
+* [🌌 Metamask Setup with Aurora](how-to-guides/metamask-setup-with-aurora.md)
+* [🌉 Bridging Assets](how-to-guides/bridging-assets.md)
 
 ## 🗣 Get in Touch
 
