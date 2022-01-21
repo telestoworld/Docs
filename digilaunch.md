@@ -10,15 +10,13 @@ description: The largest treasury reserve protocols for the Metaverse on Celo ne
 
 DigiKeys NFTs will serve as the mechanism through which we provide initial liquidity and funding for the Telesto Protocols. All DigiKey NFT holders will be airdropped TELO in proportion to the amount of NFTS they hold when snapshots are taken 48 hours after the mint page is live (limit 5 per person).
 
-600 DigiKeys will be minted on Aurora with the Initial mint price of $500 PER nft to be paid for in ETH.
+The DigiKeys will be minted on Aurora and Ethereum with the Initial mint price of $500 PER nft to be paid for in ETH (or aETH, bridged ethereum on Aurora). Minting on Aurora and Ethereum will give provide ethereum users a chance to check out Aurora, a more efficient and eco-friendly EVM that runs on top of Near protocol.&#x20;
 
-Those that have already whitelisted will receive a 16% discount for a total of $420 per NFT.
+Those that have already whitelisted will receive a 16% discount for a total of $420 per NFT.&#x20;
 
-All mints must be paid for ETH on Aurora.&#x20;
+We recommend [Rainbow Bridge](https://rainbowbridge.app) to bridge assets between ETHEREUM <> AURORA <> NEAR. Check out the[ "How To Guides"](broken-reference) section for some more information.
 
-We recommend [Rainbow Bridge](https://rainbowbridge.app) to bridge assets between NEAR <> ETHEREUM <> AURORA. Check out the[ "How To Guides"](broken-reference) section for some more information.
-
-Transactions between Near and Aurora are near instant and very cheap, while you will have to pay a gas fee for going on and off ethereum.
+Transactions between Near and Aurora are near instant and very cheap, while you will have to pay a gas fee for going on and off Ethereum.
 
 [Trisolaris](https://www.trisolaris.io/#/swap) is the highest volume exchange on Aurora and also has a Bridges section with options from Terra and other chains.
 
