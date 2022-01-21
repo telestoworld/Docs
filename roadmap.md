@@ -5,8 +5,9 @@
 * [x] Multisignature Wallet Implementation
 * [x] Founders Keys
 * [x] Doxx/Discard OHM
-* [ ] Surprise
+* [ ] DigiLaunch
 * [ ] TELO initial mint
+* [ ] Telesto Finance Algorithmic Protocol
 * [ ] Governance and Voting
 * [ ] Exchange listing
 * [ ] Bridge

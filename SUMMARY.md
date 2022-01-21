@@ -2,10 +2,10 @@
 
 * [🔱 Introduction 🔱](README.md)
 * [🚀 DigiLaunch](digilaunch.md)
+* [🪙 Tokens](tokens.md)
 * [🗺 Roadmap](roadmap.md)
 * [🌐 Telesto World](telesto-world.md)
 * [🏪 TeloChan Market](telochan-market.md)
-* [🌚 TELO](telo.md)
 
 ## 🗣 Get in Touch
 
