@@ -4,7 +4,7 @@ Scrap Mechanism
 
 ### What is SCRAP? <a href="#what-are-tbond-bonds" id="what-are-tbond-bonds"></a>
 
-SCRAP's are unique tokens that can be utilized to help stabilize TELO price around peg (1 NEAR) by reducing circulating supply of TELO if the TWAP (time-weighted-average-price) goes below peg (1 NEAR).
+SCRAP's are unique bond tokens that can be utilized to help stabilize TELO price around peg (1 NEAR) by reducing circulating supply of TELO if the TWAP (time-weighted-average-price) goes below peg (1 NEAR).
 
 ### When can I buy SCRAP? <a href="#when-can-i-buy-tbond-bonds" id="when-can-i-buy-tbond-bonds"></a>
 
