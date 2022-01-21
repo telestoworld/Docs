@@ -11,7 +11,7 @@ In Telesto, we use the term "Digiworlds".
 
 This is to further distance ourselves from Zuckerberg's "Meta".&#x20;
 
-We believe that Telesto World and any other DigiWorlds should be owned by the DAO, with the major decisions and proposals carried out via governance. We believe the tools that we use for development should also be open source licensed (ie Godot, Celo, Chainlink).
+We believe that Telesto World and any other DigiWorlds should be owned by the DAO, with the major decisions and proposals carried out via governance. We believe the tools that we use for development should also be open source licensed (Godot, Near, Aurora, Chainlink).
 
 Some of the key features of Telesto World will include DigiWorld space ownership with royalties for all Space holders, NFT and specifically ERC-1155 support, P2E Games, Social Events, Gamified Finance & Governance, Gambling, VRM support, and Flying Cars.
 
