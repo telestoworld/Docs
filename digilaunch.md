@@ -8,7 +8,7 @@ description: The largest treasury reserve protocols for the Metaverse on Celo ne
 
 DigiKeys will serve as a passport to not only the initial minting of TELO, but to Telesto itself. The minting price will also serve as the initial liquidity for Telesto Finance Genesis Pools.
 
-600 DigiKeys will be minted with the Initial price of $500.
+600 DigiKeys will be minted with the Initial mint price of $500 to be paid for in Eth on Aurora.
 
 Those that have already whitelisted will receive a 16% discount for a total of $420.
 
