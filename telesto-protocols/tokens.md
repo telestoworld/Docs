@@ -10,13 +10,13 @@ Unlike other stablecoins, (UST, for example) that are pegged to the US Dollar. $
 
 As many analysis show, the US Dollar is actually losing value over time. This pegging to the US dollar is signing up for a currency that is potentially equally as inflationary.
 
-![](<.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1).png>)
 
 Instead, TELO is pegged to a cryptocurrency that we believe in, NEAR and the treasury runs atop Aurora an EVM shard of Near that supports solidity smart contracts.
 
 Not only will this allow TELO to be ERC20 and multichain, it will allow our core team to expand on use cases for the token within Telesto World and/or other Metaverses, making TELO truly a currency for the metaverse that maintains its peg to Near while also retaining EVM support.
 
-![](<.gitbook/assets/ezgif.com-gif-maker (6).gif>)
+![](<../.gitbook/assets/ezgif.com-gif-maker (6).gif>)
 
 
 
