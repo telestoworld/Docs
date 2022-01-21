@@ -4,7 +4,7 @@ description: The DAO that governs Telesto World & the Council
 
 # 🗺 Telesto World DAO
 
-This is the DAO of the people on Near protocol where votes are carried out in a democratic fashion and will serve as the main decision making platform for Telesto World.
+Telesto World DAO, or the DAO that governs Telesto World, has its main HQ on Near protocol where votes are carried out in a democratic fashion and will serve as the main decision making platform for Telesto World.
 
 [Telesto World DAO ](https://app.astrodao.com/dao/telesto.sputnik-dao.near)on Near is open for anyone with a Near wallet which you can grab [here](https://wallet.near.org).
 
