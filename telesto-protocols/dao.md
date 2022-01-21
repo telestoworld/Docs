@@ -6,7 +6,7 @@ description: >-
 
 # 🛕 Telesto Finance DAO
 
-The fund controlled by the developers of TOMB Finance that conducts buybacks and acts as a reserve to help maintain the peg.
+The fund controlled by the developers of Telesto Finance that conducts buybacks and acts as a reserve to help maintain the peg.
 
 ### Functions of Telesto Finance DAO
 
