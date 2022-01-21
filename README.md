@@ -7,7 +7,7 @@ coverY: 0
 
 ## What is Telesto?
 
-Telesto is a DAO for a multi-chain decentralized DigiWorld future that is censorship-resistant, teeming with experience, and community-first with its own algorithmic stablecoin protocol, $TELO pegged to Near at a 10:1 ratio. We are looking beyond the current models towards a multiverse future that can have lasting and meaningful impact.
+Telesto is a DAO for a multi-chain decentralized DigiWorld future that is censorship-resistant, teeming with experience, and community-first with its own algorithmic stablecoin protocol, $TELO pegged to Near at a 10:1 ratio that runs on top of Aurora, an EVM machine that runs on top of Near Protocol. We are looking beyond the current models towards a multiverse future that can have lasting and meaningful impact.
 
 We believe that DigiWorld’s should be owned by the DAO and that:
 
