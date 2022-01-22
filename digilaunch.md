@@ -28,11 +28,17 @@ Transactions between Near and Aurora are near instant and very cheap, while you 
 
 The launch sale will result in approximately $992,000 if all DigiKeys are minted. This number is subject to change if less whitelisters show up for the sale, or the collection does not sell out.
 
-85% of the funds generated from the launch sale will go directly into providing initial liquidity for to the Telesto Finance DAO, backing $TELO and starting the Genesis Pools.
+84% of the funds generated from the launch sale will go directly into providing initial liquidity for to the Telesto Finance DAO, backing $TELO and starting the Genesis Pools.
 
-15% will given to the development fund to start the immediate development of Telesto World.
+14% will given to the development fund to start the immediate development of Telesto World.
 
-This will result in $849,200 for the Telesto Finance Protocol and $142,800 to fund the development of Telesto World. To truly get this project off the ground and have the development of Telesto World DigiWorld Metaverse realized in a reasonable amount of time, we see this as the best course of action for investors, supporters and team alike.&#x20;
+2% will be given to Amazon Watch.
+
+Amazon Watch fights the destruction of the Amazon, supports Indigenous rights, and finds climate justice solutions.&#x20;
+
+It also happens to be [Lil Nas X’s charity of choice](https://twitter.com/LilNasX/status/1164346740041867264) for saving the Amazon.&#x20;
+
+This will result in $833,280 for the Telesto Finance Protocol and $138,880 to fund the development of Telesto World and $19,840 to Amazon Watch. To truly get this project off the ground and have the development of Telesto World DigiWorld Metaverse realized in a reasonable amount of time, we see this as the best course of action for investors, supporters and team alike.&#x20;
 
 The initial minting of TELO, as well as the launch of the protocol, is to occur before February 1st, 2022 and all DigiKey holders will be airdropped their portion of TELO.
 
