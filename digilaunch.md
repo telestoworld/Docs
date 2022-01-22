@@ -38,7 +38,7 @@ Amazon Watch fights the destruction of the Amazon, supports Indigenous rights, a
 
 It also happens to be [Lil Nas X’s charity of choice](https://twitter.com/LilNasX/status/1164346740041867264) for saving the Amazon.&#x20;
 
-This will result in $833,280 for the Telesto Finance Protocol and $138,880 to fund the development of Telesto World and $19,840 to Amazon Watch. To truly get this project off the ground and have the development of Telesto World DigiWorld Metaverse realized in a reasonable amount of time, we see this as the best course of action for investors, supporters and team alike.&#x20;
+This will result in $833,280 for the Telesto Finance Protocol/$TELO , $138,880 to fund the development of Telesto World and $19,840 to Amazon Watch. To truly get this project off the ground and have the development of Telesto World DigiWorld Metaverse realized in a reasonable amount of time, we see this as the best course of action for investors, supporters and team alike.&#x20;
 
 The initial minting of TELO, as well as the launch of the protocol, is to occur before February 1st, 2022 and all DigiKey holders will be airdropped their portion of TELO.
 
