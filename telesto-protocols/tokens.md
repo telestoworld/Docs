@@ -12,7 +12,7 @@ As many analysis show, the US Dollar is actually losing value over time. Pegging
 
 ![](<../.gitbook/assets/image (1) (1).png>)
 
-![](<../.gitbook/assets/image (5) (1) (1).png>)
+![](<../.gitbook/assets/image (5) (1) (1) (1).png>)
 
 Instead, TELO is pegged to a cryptocurrency that we believe in, NEAR and the treasury runs atop Aurora an EVM shard of Near that supports solidity smart contracts.
 
