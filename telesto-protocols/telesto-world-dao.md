@@ -6,7 +6,7 @@ description: The DAO that governs Telesto World & the Council
 
 Telesto World DAO, or the DAO that governs Telesto World, has its main HQ on Near protocol where votes are carried out in a democratic fashion and will serve as the main decision making platform for Telesto World.
 
-[Telesto World DAO ](https://app.astrodao.com/dao/telesto.sputnik-dao.near)on Near is open for anyone with a Near wallet which you can grab [here](https://wallet.near.org).
+[Telesto World DAO ](https://app.astrodao.com/dao/telesto.sputnik-dao.near)on Near is open for anyone with a Near wallet which you can grab [here](https://wallet.near.org).(when you navigate to[ the page](https://app.astrodao.com/dao/telesto.sputnik-dao.near) make sure your Near wallet is connected by clicking the icon in the upper right and refreshing the page) ![](<../.gitbook/assets/image (2).png>)
 
 Anyone with a Near wallet can submit proposals or send funds to the treasury, but only members can vote on proposals unless a proposal is submitted and passes to change this.
 
@@ -16,7 +16,7 @@ Votes are counted in 1:1 fashion where 1 person = 1 vote and proposals currently
 
 ![](<../.gitbook/assets/image (7).png>)
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 Once you become a member, you will be added to the "council" of the DAO. This will give you voting rights in the DAO and also unlock a channel in the Discord that is read-only for all non-council members called "the council".
 
