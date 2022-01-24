@@ -6,6 +6,6 @@ After installing Metamask, navigate to [https://aurora.dev/start](https://aurora
 
 ![](<../.gitbook/assets/image (5) (1) (1) (1).png>)
 
-![](<../.gitbook/assets/image (6) (1).png>)
+![](<../.gitbook/assets/image (6) (1) (1).png>)
 
 Confirm the switch, and you are ready to go!
