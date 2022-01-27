@@ -7,13 +7,13 @@
 * [x] Doxx/Discard OHM
 * [ ] DigiLaunch
 * [ ] TELO initial mint
-* [ ] Telesto Finance Algorithmic Protocol
-* [ ] Governance and Voting
-* [ ] Exchange listing
-* [ ] Bridge
+* [ ] Telesto Finance Algorithmic Protocol \*tbd
 * [ ] TeloChan Marketplace
 * [ ] NFTs, Avatars, Digital Assets
 * [ ] Telesto World gallery first iteration
+* [ ] Governance and Voting
+* [ ] Exchange listing
+* [ ] Bridge
 
 ## Q2 2021
 
