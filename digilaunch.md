@@ -44,7 +44,7 @@ The initial minting of TELO, as well as the launch of the protocol, is to occur 
 
 \*IMPORTANT\*.&#x20;
 
-**We will be taking a snapshot approximately 48 hours after the DigiKey minting goes live at 1/28/2022 UTC 0:00. This snapshot will determine who is eligible for the TELO airdrop.**
+**We will be taking a snapshots after the DigiKey minting goes live at \*tbd. This snapshot will determine who is eligible for the TELO airdrop.**
 
 Anyone who has a NFT in their wallet will be eligible for their portion of TELO tokens. Since TELO is pegged to the price of NEAR at a 10:1 ratio, the amount of tokens distributed will be dynamically adjusted depending on market prices. For example, with current conditions would $400 worth of TELO would be approximately 259 TELO tokens since NEAR is currently at $15.42 USD and thus TELO would be pegged at $1.54.
 
