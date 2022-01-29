@@ -2,6 +2,8 @@
 
 ## **Current wallets owned by the team**
 
+**Eth Treasury Multisig:** [0x085f9210FC31E842bD962744780EE21dfbB28C39](https://etherscan.io/address/0x085f9210FC31E842bD962744780EE21dfbB28C39) ****&#x20;
+
 **Telestoworld.near**
 
 **Telesto.near**
