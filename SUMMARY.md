@@ -6,14 +6,10 @@
 
 ## Telesto Protocols
 
-* [🪙 Tokens](telesto-protocols/tokens.md)
-* [🏦 Platform](telesto-protocols/platform.md)
-* [🔧 Scrap Mechanism](telesto-protocols/scrap-mechanism.md)
-* [🛕 Telesto Finance DAO](telesto-protocols/dao.md)
-* [ℹ Contracts, Wallets](telesto-protocols/contracts-wallets.md)
 * [🌐 Telesto World](telesto-protocols/telesto-world.md)
 * [🗺 Telesto World DAO](telesto-protocols/telesto-world-dao.md)
 * [🏪 TeloChan Market](telesto-protocols/telochan-market.md)
+* [ℹ Contracts, Wallets](telesto-protocols/contracts-wallets.md)
 
 ## How to Guides
 
