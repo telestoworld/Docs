@@ -11,11 +11,6 @@
 * [🏪 TeloChan Market](telesto-protocols/telochan-market.md)
 * [ℹ Contracts, Wallets](telesto-protocols/contracts-wallets.md)
 
-## How to Guides
-
-* [🌌 Metamask Setup with Aurora](how-to-guides/metamask-setup-with-aurora.md)
-* [🌉 Bridging Assets](how-to-guides/bridging-assets.md)
-
 ## 🗣 Get in Touch
 
 * [DAO Discord](https://discord.gg/SyN6P8WXwE)
