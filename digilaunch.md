@@ -26,7 +26,7 @@ Transactions between Near and Aurora are near instant and very cheap, while you 
 
 ## Distribution of launch sale funds
 
-84% of the funds generated from the launch sale will go directly into providing initial liquidity for to the Telesto Finance DAO, backing $TELO and starting the Genesis Pools.
+84% of the funds generated from the launch sale will go directly into providing initial liquidity for to the Telesto Finance DAO, backing $TELO and starting the protocol.
 
 14% will given to the development fund to start the immediate development of Telesto World.
 
@@ -38,13 +38,7 @@ It also happens to be [Lil Nas X’s charity of choice](https://twitter.com/LilN
 
 This will result in $833,280 for the Telesto Finance Protocol/$TELO , $138,880 to fund the development of Telesto World and $19,840 to Amazon Watch. To truly get this project off the ground and have the development of Telesto World DigiWorld Metaverse realized in a reasonable amount of time, we see this as the best course of action for investors, supporters and team alike.&#x20;
 
-The initial minting of TELO, as well as the launch of the protocol, is to occur before February 1st, 2022 and all DigiKey holders will be airdropped their portion of TELO.
-
-\*IMPORTANT\*.&#x20;
-
-**We will be taking a snapshots after the DigiKey minting goes live at \*tbd. This snapshot will determine who is eligible for the TELO airdrop.**
-
-Anyone who has a NFT in their wallet will be eligible for their portion of TELO tokens. Since TELO is pegged to the price of NEAR at a 10:1 ratio, the amount of tokens distributed will be dynamically adjusted depending on market prices. For example, with current conditions would $400 worth of TELO would be approximately 259 TELO tokens since NEAR is currently at $15.42 USD and thus TELO would be pegged at $1.54.
+Anyone who has a NFT in their wallet will be eligible for their portion of TELO tokens. The amount of tokens distributed will be dynamically adjusted depending on market prices and depending on the amount of NFTs one is holding (maximum 5).&#x20;
 
 We will airdrop all NFT holders their portion of TELO in the days following the snapshot and start the protocol shortly after. We wish to remain vague on the timing of the launch of the protocols in order to retain a competitive advantage and to ensure fairness (aka stealth launch). Whitelisters will be the first to be notified.
 
