@@ -8,7 +8,7 @@ description: The largest treasury reserve protocols for the Metaverse on Celo ne
 
 ![](.gitbook/assets/DigiKey.png)
 
-DigiKeys NFTs will serve as the mechanism through which we provide initial liquidity and funding for the Telesto Protocols. All DigiKey NFT holders will be airdropped TELO in proportion to the amount of NFTS they hold when snapshots are taken 48 hours after the mint page is live (limit 5 per person).
+DigiKeys NFTs will serve as the mechanism through which we provide initial liquidity and funding for the Telesto Protocols. All DigiKey NFT holders will be airdropped TELO in proportion to the amount of NFTS they hold when snapshots are taken after the collection sells out.
 
 1,000 DigiKeys will be minted on[ Ethereum](https://telesto.money) and 1,000 on Aurora.&#x20;
 
