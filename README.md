@@ -18,15 +18,7 @@ We believe that DigiWorld’s should be owned by the DAO and that:
 * Our platform is accessible for creators and artists and allows them to earn user-set royalties for their work… including 3d assets, avatars, and other NFTs.
 * Transparent collaboration occurs and development chat in Discord or other future chat mediums is accesible to the DAO and members of the server.
 
-## Algorithmic Stablecoin Protocol
-
-_The coin for the DigiWorld Multiverse_
-
-Telesto is also an algorithimic stable coin protocol pegged 10:1 to NEAR. Inspired by [Tomb Finance](https://tomb.finance), our protocol uses three tokens ($TELO, $MINERAL, $SCRAP) to incentivize a stable 10:1 peg to NEAR.&#x20;
-
-The protocol's underlying mechanism dynamically adjusts TELO's supply, pushing its price up or down relative to the price of NEAR token.&#x20;
-
-&#x20;To improve on the use case of TELO we intend to bring utility to it for Telesto World. The protocol being the building blocks for gamified finance within Telesto World. Because TELO will follow ERC20 format it will be compatible with other EVM blockchains amd serve as a token used throughout the DigiWorld Multiverse.
+To improve on the use case of TELO we intend to bring utility to it for Telesto World. The protocol being the building blocks for gamified finance within Telesto World. Because TELO will follow ERC20 format it will be compatible with other EVM blockchains amd serve as a token used throughout the DigiWorld Multiverse.
 
 ### How can I participate?
 
