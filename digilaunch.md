@@ -12,9 +12,9 @@ DigiKeys NFTs will serve as the mechanism through which we provide initial liqui
 
 1,000 DigiKeys will be minted on[ Ethereum](https://telesto.money) and 1,000 on Aurora.&#x20;
 
-The Initial mint price of .25 ETH per NFT to be paid for in ETH (ETH is also the base currency on Aurora although gas/tx's are much cheaper).&#x20;
+The Initial mint price of .077 ETH per NFT to be paid for in ETH (ETH is also the base currency on Aurora although gas/tx's are much cheaper).&#x20;
 
-Those that have already whitelisted will receive a 16% discount for a total of .2 ETH per NFT.&#x20;
+Those that have already whitelisted will receive a 16% discount for a total of .055 ETH per NFT.&#x20;
 
 We recommend [Rainbow Bridge](https://rainbowbridge.app) to bridge assets between ETHEREUM <> AURORA <> NEAR. Check out the[ "How To Guides"](broken-reference) section for some more information.
 
