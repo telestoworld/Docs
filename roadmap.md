@@ -5,7 +5,7 @@
 * [x] Multisignature Wallet Implementation
 * [x] Founders Keys
 * [x] Doxx/Discard OHM
-* [ ] DigiLaunch
+* [x] [DigiLaunch](https://telesto.money)
 * [ ] TELO initial mint
 * [ ] Telesto Finance Algorithmic Protocol \*tbd
 * [ ] TeloChan Marketplace
