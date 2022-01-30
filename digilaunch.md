@@ -18,7 +18,7 @@ Those that have already whitelisted will receive a 16% discount for a total of .
 
 ## Distribution of launch sale funds
 
-84% of the funds generated from the launch sale will go directly into providing initial liquidity for to the Telesto Finance DAO, backing $TELO and starting the protocol.
+84% of the funds generated from the launch sale will go directly into providing value for $TELO and  investors will be airdropped $TELO in proportion to the amount of NFT's that they hold (maximum 5).
 
 14% will given to the development fund to start the immediate development of Telesto World.
 
