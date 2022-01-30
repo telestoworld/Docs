@@ -26,8 +26,6 @@ Transactions between Near and Aurora are near instant and very cheap, while you 
 
 ## Distribution of launch sale funds
 
-The launch sale will result in approximately $992,000 if all DigiKeys are minted. This number is subject to change if less whitelisters show up for the sale, or the collection does not sell out.
-
 84% of the funds generated from the launch sale will go directly into providing initial liquidity for to the Telesto Finance DAO, backing $TELO and starting the Genesis Pools.
 
 14% will given to the development fund to start the immediate development of Telesto World.
