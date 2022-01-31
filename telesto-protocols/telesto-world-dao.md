@@ -22,6 +22,4 @@ Once you become a member, you will be added to the "council" of the DAO. This wi
 
 This is a channel where members of Telesto DAO can have discussion and hold quorum over major Telesto World decisions.
 
-Another discord channel "ello-guvnor" will also receive alerts whenever a new proposal is created.
-
-&#x20;![](<../.gitbook/assets/image (5) (1) (1).png>)
+Another discord channel "governance" will also receive alerts whenever a new proposal is created.
