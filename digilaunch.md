@@ -10,7 +10,7 @@ description: The largest treasury reserve protocols for the Metaverse on Celo ne
 
 DigiKeys NFTs will serve as the mechanism through which we provide initial liquidity and funding for the Telesto Protocols. All DigiKey NFT holders will be airdropped TELO in proportion to the amount of NFTS they hold when snapshots are taken after the collection sells out.
 
-1,000 DigiKeys will be minted on[ Ethereum](https://telesto.money) to begin with other DigiKeys being minted on other chains following (more details to be announced).
+1,000 DigiKeys will be minted on[ Ethereum](https://telesto.money) to begin with other DigiKeys being minted on other chains following including [Celo](https://telesto.money), which is available now.
 
 The Initial mint price of .077 ETH per NFT to be paid for in ETH (ETH is also the base currency on Aurora although gas/tx's are much cheaper).&#x20;
 
