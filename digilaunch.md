@@ -16,9 +16,13 @@ The Initial mint price of .077 ETH per NFT to be paid for in ETH (ETH is also th
 
 Those that have already whitelisted will receive a 16% discount for a total of .055 ETH per NFT.&#x20;
 
+The Celo "Explorer" edition of the NFT will be cheaper in cost and is currently priced at 5 Celo for regular mint.
+
+Conducting our launch sale through NFT's will allow for greater visibility and use case for governance as we can readily identify holders. DigiKeys will also be easily transferable to Telesto World allowing for utility in unlocking hidden features and secret areas.
+
 ## Distribution of launch sale funds
 
-84% of the funds generated from the launch sale will go directly into providing value for $TELO and  investors will be airdropped $TELO in proportion to the amount of NFT's that they hold (maximum 5).
+84% of the funds generated from the launch sale will go directly into backing $TELO and investors will be airdropped $TELO in proportion to the amount of NFT's that they hold (maximum 5).
 
 14% will given to the development fund to start the immediate development of Telesto World.
 
