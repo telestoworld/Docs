@@ -17,6 +17,7 @@ We believe that DigiWorld’s should be owned by the DAO and that:
 * Major Development decisions are proposed and decided on via Governance
 * Our platform is accessible for creators and artists and allows them to earn user-set royalties for their work… including 3d assets, avatars, and other NFTs.
 * Transparent collaboration occurs and development chat in Discord or other future chat mediums is accesible to the DAO and members of the server.
+* Running the DigiWorld Metaverse should come without negative ecological impact (carbon neautral or negative in outcome).
 
 To improve on the use case of TELO we intend to bring utility to it for Telesto World. The protocol being the building blocks for gamified finance within Telesto World. Because TELO will follow ERC20 format it will be compatible with other EVM blockchains amd serve as a token used throughout the DigiWorld Multiverse.
 
