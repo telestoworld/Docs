@@ -15,3 +15,7 @@ description: The Telesto Core Team
 [Abhi Tiwari](https://www.linkedin.com/in/abhi-kay-tiwari/) is a full time software developer, digital marketer, and semi co-founder who goes by "Mars" in the Discord.&#x20;
 
 ![https://github.com/KayTiwari](../.gitbook/assets/abhitiwari.jpg)
+
+Jupityr, who wishes to remain anonymous, is a software developer with over 10 years of experience who has participated in many hackathons under different pseudonyms. He is often active in the Discord, is a successful NFT artist/developer, and is very approachable with a sense of humor. The "shadowy supercoder" of Telesto.
+
+![](<../.gitbook/assets/neptune (1).png>)
